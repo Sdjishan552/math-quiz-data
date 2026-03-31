@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "question": "A and B start walking from P towards Q. Distance between P and Q is 120 km. Speed of A is 24 km/h less than that of B. After reaching Q, B returns immediately to P and meets A at a distance of 30 km from Q. What is the speed of A?",
+    "options": [
+      "24 kmph",
+      "36 kmph",
+      "48 kmph",
+      "60 kmph"
+    ],
+    "correct": "",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 2,
+    "question": "A while going to school reduces his speed by 3/11 of his actual speed and reaches 12 minutes late. Find A's actual time.",
+    "options": [
+      "24 minutes",
+      "32 minutes",
+      "44 minutes",
+      "48 minutes"
+    ],
+    "correct": "32 minutes",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 3,
+    "question": "A while going to school increases his speed to 12/7 of his actual speed. He reaches his school 30 minutes early. Find A's actual speed if the distance between his house and school is 18 km.",
+    "options": [
+      "10 km/hr",
+      "12 km/hr",
+      "15 km/hr",
+      "18 km/hr"
+    ],
+    "correct": "15 km/hr",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 4,
+    "question": "A while going to school increased his speed to 9/5 of his initial speed and reaches in 7 hours 30 minutes. If A had walked at his initial speed, then how much more time would he have taken?",
+    "options": [
+      "4 hr",
+      "6 hr",
+      "8 hr",
+      "9 hr"
+    ],
+    "correct": "6 hr",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 5,
+    "question": "A bus runs 37.5% faster than a car. Both start at the same time from P and reach at Q at the same time because there was a halt of 36 minutes for bus. Find out the speed of car if the distance between P and Q is 55 km.",
+    "options": [
+      "20 kmph",
+      "25 kmph",
+      "30 kmph",
+      "35 kmph"
+    ],
+    "correct": "25 kmph",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 6,
+    "question": "In covering a distance of 3600 km, A takes 5 hours more than B. If A increased his speed by 25%, then he would have taken 4 hours less than B. Find the speed of B (in km/hr).",
+    "options": [
+      "40 kmph",
+      "45 kmph",
+      "80 kmph",
+      "90 kmph"
+    ],
+    "correct": "90 kmph",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 7,
+    "question": "A arrives at a place 24 minutes earlier than scheduled time if he rides his bike at 72 km/h. If he rides his bike at 54 km/h, he arrives 16 minutes late. What is the distance of the place from his starting point?",
+    "options": [
+      "108 km",
+      "120 km",
+      "132 km",
+      "144 km"
+    ],
+    "correct": "144 km",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 8,
+    "question": "If A runs at 45 km/h, then he arrives at a certain place at 11:00 p.m. But if he increases his speed by 15 km/h, then he reaches there at 9:00 p.m. At what speed must he run to get there at 6:00 p.m.?",
+    "options": [
+      "80 kmph",
+      "90 kmph",
+      "100 kmph",
+      "120 kmph"
+    ],
+    "correct": "120 kmph",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 9,
+    "question": "A bus travels from X to Y at a constant speed. If its speed were increased by 15 km/h, it would have taken 2 hours less to cover the distance. It would have taken 1 hour more if the speed were decreased by 5 km/h. What is the distance between X and Y?",
+    "options": [
+      "180 km",
+      "240 km",
+      "300 km",
+      "360 km"
+    ],
+    "correct": "",
+    "topic": "Speed Time Distance"
+  }
+]
