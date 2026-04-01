@@ -78,7 +78,7 @@
     "topic": "Speed Time Distance"
   },
   {
-    "id": 2,
+    "id": 7,
     "question": "A while going to school reduces his speed by 3/11th of his actual speed and reaches 12 minutes late. Find A's actual time.",
     "options": [
       "24 minutes",
@@ -91,7 +91,7 @@
     "topic": "Speed Time Distance"
   },
   {
-    "id": 3,
+    "id": 8,
     "question": "A while going to school increases his speed to 12/7th of his actual speed. He reaches his school 30 minutes early. Find A's actual speed, if the distance between his house and school is 18 km.",
     "options": [
       "10 km/hr",
@@ -104,7 +104,7 @@
     "topic": "Speed Time Distance"
   },
   {
-    "id": 4,
+    "id": 9,
     "question": "A while going to school increased his speed to 9/5 of his initial speed and reaches in 7 hours 30 minutes. If A had walked at his initial speed then how much more time had he taken?",
     "options": [
       "4 hr",
@@ -117,7 +117,7 @@
     "topic": "Speed Time Distance"
   },
   {
-    "id": 5,
+    "id": 10,
     "question": "A bus runs 37.5% faster than a car both start at the same time from P and reach at Q at the same time because there was a halt of 36 minutes for bus. Find out the speed of car if the distance between P and Q is 55 km.",
     "options": [
       "20 kmph",
@@ -130,7 +130,7 @@
     "topic": "Speed Time Distance"
   },
   {
-    "id": 6,
+    "id": 11,
     "question": "In covering a distance of 3600 km, A takes 5 hours more than B. If A increased his speed by 25%, then he would have taken 4 hours less than B. Find the speed of B (in km/hr).",
     "options": [
       "40 kmph",
@@ -143,7 +143,7 @@
     "topic": "Speed Time Distance"
   },
   {
-    "id": 7,
+    "id": 12,
     "question": "A arrives at a place 24 minutes earlier than scheduled time if he rides his bike at 72 km/h. If he rides his bike at 54 km/h he arrives 16 minutes late. What is the distance of the place from his starting point?",
     "options": [
       "108 km",
@@ -156,7 +156,7 @@
     "topic": "Speed Time Distance"
   },
   {
-    "id": 8,
+    "id": 13,
     "question": "If A runs at 45 km/h, then he arrives at a certain place at 11:00 p.m. But if he increases his speed by 15 km/h then he reaches there at 9:00 p.m. At what speed must he run to get there at 6 p.m.?",
     "options": [
       "80 kmph",
@@ -170,7 +170,7 @@
   },
  
   {
-    "id": 1,
+    "id": 14,
     "question": "A bus travels from X to Y at a constant speed. If its speed were increased by 15 km/h, it would have taken 2 hr less to cover the distance. It would have taken 1 hour more if the speed were decreased by 5 km/h. What is the distance between X and Y?",
     "options": [
       "180 km",
@@ -183,7 +183,7 @@
     "topic": "Speed Time Distance"
   },
   {
-    "id": 2,
+    "id": 15,
     "question": "Anand walks from X to Y and back in a certain time at the rate of 14 km per hour. But if he had walked from X to Y at the rate of 15 km per hour and back from Y to X at the rate of 10 km per hour, he would have taken 5 minutes longer. Find the distance between X and Y.",
     "options": [
       "5 km",
@@ -196,7 +196,7 @@
     "topic": "Speed Time Distance"
   },
   {
-    "id": 3,
+    "id": 16,
     "question": "The distance between Delhi and Amritsar is 560 km. A train starts from Delhi at 6 pm and travels towards Amritsar at 80 kmph and B train starts from Amritsar and travels towards Delhi at 8:30 pm at the speed of 40 kmph. At what time will they meet?",
     "options": [
       "11:00 PM",
@@ -209,7 +209,7 @@
     "topic": "Speed Time Distance"
   },
   {
-    "id": 4,
+    "id": 17,
     "question": "A policeman saw a murderer from a distance of 500 m and started running towards him. If speed of policeman and murderer are 50 km/h and 40 km/h respectively, find the distance murderer had run before being caught.",
     "options": [
       "3 km",
@@ -222,7 +222,7 @@
     "topic": "Speed Time Distance"
   },
   {
-    "id": 7,
+    "id": 18,
     "question": "After travelling a distance of 60 km car meets with an accident and its speed becomes 5/6th of its actual speed and reaches 36 minutes late. If this accident had occurred after travelling 30 km more car would have reached the destination 30 minutes late. Find the distance travelled by the car.",
     "options": [
       "360 km",
@@ -235,7 +235,7 @@
     "topic": "Speed Time Distance"
   },
   {
-    "id": 2,
+    "id": 19,
     "question": "Two persons P and Q start simultaneously in the opposite direction from two points A and B at 9:00 pm. Each of them runs towards starting point of other. After crossing each other P and Q took 6 hours 15 minutes and 4 hours to reach their destination. Find the ratio of their speed.",
     "options": [
       "5:4",
@@ -248,7 +248,7 @@
     "topic": "Speed Time Distance"
   },
   {
-    "id": 3,
+    "id": 20,
     "question": "P and Q start moving towards each other from places X and Y respectively at the same time. The speed of P is 20% more than that of Q. After meeting on the way, P and Q take T minutes and 6 hours to reach Y and X respectively. What is the value of T?",
     "options": [
       "160",
