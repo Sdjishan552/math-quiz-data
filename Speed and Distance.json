@@ -6,7 +6,8 @@
       "20 kmph",
       "30 kmph",
       "40 kmph",
-      "50 kmph"
+      "50 kmph",
+      "None Of These"
     ],
     "correct": "40 kmph",
     "topic": "Speed Time Distance"
@@ -19,7 +20,7 @@
       "40 kmph",
       "50 kmph",
       "60 kmph",
-      "Non Of These"
+      "None Of These"
     ],
     "correct": "50 kmph",
     "topic": "Speed Time Distance"
@@ -32,7 +33,7 @@
       "25 kmph",
       "30 kmph",
       "40 kmph",
-      "Non Of These"
+      "None Of These"
     ],
     "correct": "25 kmph",
     "topic": "Speed Time Distance"
@@ -45,7 +46,7 @@
       "144 km",
       "162 km",
       "171 km",
-      "Non Of These"
+      "None Of These"
     ],
     "correct": "171 km",
     "topic": "Speed Time Distance"
@@ -58,7 +59,7 @@
       "36 kmph",
       "42 kmph",
       "48 kmph",
-      "Non Of These"
+      "None Of These"
     ],
     "correct": "42 kmph",
     "topic": "Speed Time Distance"
@@ -71,7 +72,7 @@
       "36 kmph",
       "48 kmph",
       "60 kmph",
-      "Non Of These"
+      "None Of These"
     ],
     "correct": "36 kmph",
     "topic": "Speed Time Distance"
@@ -84,7 +85,7 @@
       "32 minutes",
       "44 minutes",
       "48 minutes",
-      "Non Of These"
+      "None Of These"
     ],
     "correct": "32 minutes",
     "topic": "Speed Time Distance"
@@ -97,7 +98,7 @@
       "12 km/hr",
       "15 km/hr",
       "18 km/hr",
-      "Non Of These"
+      "None Of These"
     ],
     "correct": "15 km/hr",
     "topic": "Speed Time Distance"
@@ -110,7 +111,7 @@
       "6 hr",
       "8 hr",
       "9 hr",
-      "Non Of These"
+      "None Of These"
     ],
     "correct": "6 hr",
     "topic": "Speed Time Distance"
@@ -123,7 +124,7 @@
       "25 kmph",
       "30 kmph",
       "35 kmph",
-      "Non Of These"
+      "None Of These"
     ],
     "correct": "25 kmph",
     "topic": "Speed Time Distance"
@@ -136,7 +137,7 @@
       "45 kmph",
       "80 kmph",
       "90 kmph",
-      "Non Of These"
+      "None Of These"
     ],
     "correct": "90 kmph",
     "topic": "Speed Time Distance"
@@ -149,7 +150,7 @@
       "120 km",
       "132 km",
       "144 km",
-      "Non Of These"
+      "None Of These"
     ],
     "correct": "144 km",
     "topic": "Speed Time Distance"
@@ -162,7 +163,7 @@
       "90 kmph",
       "100 kmph",
       "120 kmph",
-      "Non Of These"
+      "None Of These"
     ],
     "correct": "120 kmph",
     "topic": "Speed Time Distance"
@@ -176,7 +177,7 @@
       "240 km",
       "300 km",
       "360 km",
-      "Non Of These"
+      "None Of These"
     ],
     "correct": "360 km",
     "topic": "Speed Time Distance"
@@ -189,7 +190,7 @@
       "6 km",
       "7 km",
       "8 km",
-      "Non Of These"
+      "None Of These"
     ],
     "correct": "Non Of These",
     "topic": "Speed Time Distance"
@@ -202,7 +203,7 @@
       "11:30 PM",
       "12:00 AM",
       "12:30 AM",
-      "Non Of These"
+      "None Of These"
     ],
     "correct": "11:30 PM",
     "topic": "Speed Time Distance"
@@ -215,7 +216,7 @@
       "2 km",
       "2.5 km",
       "5 km",
-      "Non Of These"
+      "None Of These"
     ],
     "correct": "2 km",
     "topic": "Speed Time Distance"
@@ -228,7 +229,7 @@
       "300 km",
       "240 km",
       "180 km",
-      "Non Of These"
+      "None Of These"
     ],
     "correct": "300 km",
     "topic": "Speed Time Distance"
@@ -241,7 +242,7 @@
       "5:6",
       "6:5",
       "4:5",
-      "Non Of These"
+      "None Of These"
     ],
     "correct": "4:5",
     "topic": "Speed Time Distance"
@@ -254,7 +255,7 @@
       "200",
       "250",
       "300",
-      "Non Of These"
+      "None Of These"
     ],
     "correct": "250",
     "topic": "Speed Time Distance"
