@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "question": "The length of a passenger train is 450 m and the time taken to cross a pole is 9 sec. Find the speed of the train in kmph.",
+    "options": ["140 kmph", "120 kmph", "180 kmph", "130 kmph", "None of these"],
+    "correct": "180 kmph",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 2,
+    "question": "If the length of the train is 900 m and the time taken by it to cross an object is 45 sec, then find the speed of the train in m/sec.",
+    "options": ["20 m/s", "25 m/s", "35 m/s", "30 m/s", "40 m/s"],
+    "correct": "20 m/s",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 3,
+    "question": "The length of the train is 120 m and the speed of the train is 24 m/sec. Find the total time taken by it to cross a man standing.",
+    "options": ["7 sec", "2 sec", "4 sec", "5 sec", "None of these"],
+    "correct": "5 sec",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 4,
+    "question": "If the length of a train is 450 m and the speed of the train is 162 kmph, find the time it will take to cross a pole.",
+    "options": ["12 sec", "20 sec", "25 sec", "15 sec", "10 sec"],
+    "correct": "10 sec",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 5,
+    "question": "Speed of a train is 90 kmph and the time taken by the train to cross a person standing is 30 sec. Find the length of the train.",
+    "options": ["725 m", "480 m", "750 m", "545 m", "500 m"],
+    "correct": "750 m",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 6,
+    "question": "A platform of length 200 m is crossed by a train of length 300 m. If the speed of the train is 25 m/sec, then find the total time taken by the train to cross the platform.",
+    "options": ["35 sec", "20 sec", "40 sec", "30 sec", "15 sec"],
+    "correct": "20 sec",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 7,
+    "question": "A platform of length 250 m is crossed by a train of length 150 m. If the speed of the train is 72 kmph, then find the total time taken by the train to cross the platform.",
+    "options": ["10 sec", "25 sec", "40 sec", "20 sec", "None of the above"],
+    "correct": "20 sec",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 8,
+    "question": "The length of a platform is 150 m and a train of length 200 m can cross this platform in 70 sec, then find the speed of the train while crossing the platform in kmph.",
+    "options": ["14 kmph", "22 kmph", "19 kmph", "16 kmph", "18 kmph"],
+    "correct": "18 kmph",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 9,
+    "question": "The platform of length 200 m can be crossed by a train in 20 sec and the speed of the train is 15 m/sec, then find the length of the train.",
+    "options": ["120 m", "100 m", "200 m", "150 m", "None of the above"],
+    "correct": "100 m",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 10,
+    "question": "If a train of length 250 m can cross a platform of a certain length in 20 sec and the speed of the train is 90 kmph, then find the length of the platform.",
+    "options": ["250 m", "350 m", "300 m", "320 m", "270 m"],
+    "correct": "250 m",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 11,
+    "question": "A train running at 7/13 of its own speed reached a place 24 hours late. Find the speed of the train in km/hr.",
+    "options": ["58 kmph", "50 kmph", "38 kmph", "Can't be determined", "None of these"],
+    "correct": "Can't be determined",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 12,
+    "question": "A 280 m long train crosses a platform thrice its length in 8 minutes. What is the speed of the train?",
+    "options": ["1.5 m/s", "2.33 m/s", "1.66 m/s", "2.66 m/s", "None of the above"],
+    "correct": "2.33 m/s",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 13,
+    "question": "A man is running 400 m ahead of an engine of length 100 m with a speed of 5 m/s. If the speed of the train is 25 m/s then how much time will the train cross the man?",
+    "options": ["32 s", "35 s", "30 s", "22 s", "25 s"],
+    "correct": "25 s",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 14,
+    "question": "A train crosses a man coming from the opposite direction in 7.5 seconds. If the speed of man is 20 m/s and the speed of the train is 30 m/s, find the length of the train.",
+    "options": ["375 m", "310 m", "340 m", "450 m", "None of the above"],
+    "correct": "375 m",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 15,
+    "question": "Time taken by a Rajdhani Express to cross a platform of length 540 m is 45 seconds, and the time taken by the same train to travel the distance of 576 km is 8 hours. Time taken by train B which is travelling at a speed which is 25% less than that of Rajdhani Express takes 36 seconds to cross a boy standing on the platform. By what percentage, length of train B is more or less than that of Rajdhani Express?",
+    "options": ["50%", "40%", "46%", "55%", "None of these"],
+    "correct": "50%",
+    "topic": "Speed Time Distance"
+  },
+   {
+    "id": 16,
+    "question": "A train crosses a 420 m long platform in 36 seconds at the speed of 90 kmph. If the speed of the train is decreased by 16.67%, then find the time taken by train to cross a 240 m long bridge?",
+    "options": ["9.6 sec", "12 sec", "10 sec", "16.5 sec", "None of these"],
+    "correct": "None of these",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 17,
+    "question": "Train A crosses a platform of length 280 m in 38 seconds with the speed of 72 kmph. If the length of train A is 80 m more than the length of train B and train B crosses a 100 m long tunnel in 30 seconds, then find the difference between the speed of train A and B?",
+    "options": ["18 kmph", "12 kmph", "15 kmph", "8 kmph", "None of these"],
+    "correct": "12 kmph",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 18,
+    "question": "A train crosses a 360 m long platform in 32 seconds and the train also crosses a dog standing on a platform in 17.6 seconds. Find the speed of the train?",
+    "options": ["60 kmph", "80 kmph", "100 kmph", "90 kmph", "72 kmph"],
+    "correct": "90 kmph",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 19,
+    "question": "Train A crosses a tunnel of length 300 m in 15 seconds but the same train crosses an electronic pole in 6 seconds. Find the length of train?",
+    "options": ["175 m", "225 m", "200 m", "250 m", "None of these"],
+    "correct": "200 m",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 20,
+    "question": "Train B crosses train A in 12 seconds and 60 seconds while running in opposite direction and in same direction respectively. Ratio of length of train A to that of train B is 3:2. If speed of train A is 60 km/hr, then find time taken by train B to cross a 800 m long platform.",
+    "options": ["28 seconds", "30 seconds", "25 seconds", "40 seconds", "36 seconds"],
+    "correct": "40 seconds",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 21,
+    "question": "A train passes 320 m long platform in 25 seconds and a boy standing on the platform in 9 seconds. Find the length of the train?",
+    "options": ["90 m", "120 m", "150 m", "180 m", "None of these"],
+    "correct": "180 m",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 22,
+    "question": "A train met with an accident 120 km from station A. It completes the remaining journey at 2/3 of the previous speed and reached 1 hr 30 min late at station Q. If the accident had taken place 60 km further, it would have been only 60 min late. What is the original speed of the train?",
+    "options": ["60 km/hr", "45 km/hr", "50 km/hr", "48 km/hr"],
+    "correct": "60 km/hr",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 23,
+    "question": "Total distance between Mumbai to Chennai is 720 km. A train starts running with a speed of 90 km/hr from Mumbai to Chennai while another train starts journey after 2 hours of first train and reaches Chennai half an hour before first train. If first train stops for 300 seconds on each station and second train did not stop at any station, then find the ratio between speed of first train to speed of second train given that there is a station after every 72 km?",
+    "options": ["20:31", "25:32", "28:41", "30:47"],
+    "correct": "25:32",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 24,
+    "question": "If the child starts running at a certain speed and increases his speed by 4.8 km/hr after every 15 seconds, then find his final speed when he reached back the train.",
+    "options": ["14.4 km/hr", "24 km/hr", "33.6 km/hr", "Can't be determined"],
+    "correct": "24 km/hr",
+    "topic": "Speed Time Distance"
+  }
+]
