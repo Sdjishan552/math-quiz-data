@@ -1,0 +1,264 @@
+[
+  {
+    "id": 1,
+    "question": "A man covered travelled for 3 hours 20 minutes in a car to cover 150 km and travelled for 5 hours 40 minutes in a bus to cover 210 km. Find the average speed of the man for the whole journey.",
+    "options": [
+      "20 kmph",
+      "30 kmph",
+      "40 kmph",
+      "50 kmph"
+    ],
+    "correct": "40 kmph",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 2,
+    "question": "A man covered 200 km with 50 kmph, another 360 km with 60 kmph and final 240 km with 40 kmph. Find the average speed of the man for the whole journey.",
+    "options": [
+      "30 kmph",
+      "40 kmph",
+      "50 kmph",
+      "60 kmph",
+      "Non Of These"
+    ],
+    "correct": "50 kmph",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 3,
+    "question": "A man covered one third of his journey at a speed of 20 km/hr, one fourth of the remaining at the speed of 10 km/hr and the remaining journey at a speed of 75 km/hr. Find the average speed of man?",
+    "options": [
+      "20 kmph",
+      "25 kmph",
+      "30 kmph",
+      "40 kmph",
+      "Non Of These"
+    ],
+    "correct": "25 kmph",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 4,
+    "question": "A and B started walking towards each other from X and Y at the speed of 84 km/h and 49 km/h, respectively in order to meet each other. A had walked 45 km more than B had walked. Find the distance between X and Y.",
+    "options": [
+      "108 km",
+      "144 km",
+      "162 km",
+      "171 km",
+      "Non Of These"
+    ],
+    "correct": "171 km",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 5,
+    "question": "A can reach a certain place in 8 hours. If he reduces his speed by 2/7th, he goes 96 km less in that time, then find his speed per hour.",
+    "options": [
+      "30 kmph",
+      "36 kmph",
+      "42 kmph",
+      "48 kmph",
+      "Non Of These"
+    ],
+    "correct": "42 kmph",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 6,
+    "question": "A and B start walking from P towards Q. Distance between P and Q is 120 km. Speed of A is 24 km/h less than that of B. After reaching Q, B returns immediately to P and meets A at the distance of 30 km from Q. What is speed of A?",
+    "options": [
+      "24 kmph",
+      "36 kmph",
+      "48 kmph",
+      "60 kmph",
+      "Non Of These"
+    ],
+    "correct": "36 kmph",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 2,
+    "question": "A while going to school reduces his speed by 3/11th of his actual speed and reaches 12 minutes late. Find A's actual time.",
+    "options": [
+      "24 minutes",
+      "32 minutes",
+      "44 minutes",
+      "48 minutes",
+      "Non Of These"
+    ],
+    "correct": "32 minutes",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 3,
+    "question": "A while going to school increases his speed to 12/7th of his actual speed. He reaches his school 30 minutes early. Find A's actual speed, if the distance between his house and school is 18 km.",
+    "options": [
+      "10 km/hr",
+      "12 km/hr",
+      "15 km/hr",
+      "18 km/hr",
+      "Non Of These"
+    ],
+    "correct": "15 km/hr",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 4,
+    "question": "A while going to school increased his speed to 9/5 of his initial speed and reaches in 7 hours 30 minutes. If A had walked at his initial speed then how much more time had he taken?",
+    "options": [
+      "4 hr",
+      "6 hr",
+      "8 hr",
+      "9 hr",
+      "Non Of These"
+    ],
+    "correct": "6 hr",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 5,
+    "question": "A bus runs 37.5% faster than a car both start at the same time from P and reach at Q at the same time because there was a halt of 36 minutes for bus. Find out the speed of car if the distance between P and Q is 55 km.",
+    "options": [
+      "20 kmph",
+      "25 kmph",
+      "30 kmph",
+      "35 kmph",
+      "Non Of These"
+    ],
+    "correct": "25 kmph",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 6,
+    "question": "In covering a distance of 3600 km, A takes 5 hours more than B. If A increased his speed by 25%, then he would have taken 4 hours less than B. Find the speed of B (in km/hr).",
+    "options": [
+      "40 kmph",
+      "45 kmph",
+      "80 kmph",
+      "90 kmph",
+      "Non Of These"
+    ],
+    "correct": "90 kmph",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 7,
+    "question": "A arrives at a place 24 minutes earlier than scheduled time if he rides his bike at 72 km/h. If he rides his bike at 54 km/h he arrives 16 minutes late. What is the distance of the place from his starting point?",
+    "options": [
+      "108 km",
+      "120 km",
+      "132 km",
+      "144 km",
+      "Non Of These"
+    ],
+    "correct": "144 km",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 8,
+    "question": "If A runs at 45 km/h, then he arrives at a certain place at 11:00 p.m. But if he increases his speed by 15 km/h then he reaches there at 9:00 p.m. At what speed must he run to get there at 6 p.m.?",
+    "options": [
+      "80 kmph",
+      "90 kmph",
+      "100 kmph",
+      "120 kmph",
+      "Non Of These"
+    ],
+    "correct": "120 kmph",
+    "topic": "Speed Time Distance"
+  },
+ 
+  {
+    "id": 1,
+    "question": "A bus travels from X to Y at a constant speed. If its speed were increased by 15 km/h, it would have taken 2 hr less to cover the distance. It would have taken 1 hour more if the speed were decreased by 5 km/h. What is the distance between X and Y?",
+    "options": [
+      "180 km",
+      "240 km",
+      "300 km",
+      "360 km",
+      "Non Of These"
+    ],
+    "correct": "360 km",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 2,
+    "question": "Anand walks from X to Y and back in a certain time at the rate of 14 km per hour. But if he had walked from X to Y at the rate of 15 km per hour and back from Y to X at the rate of 10 km per hour, he would have taken 5 minutes longer. Find the distance between X and Y.",
+    "options": [
+      "5 km",
+      "6 km",
+      "7 km",
+      "8 km",
+      "Non Of These"
+    ],
+    "correct": "Non Of These",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 3,
+    "question": "The distance between Delhi and Amritsar is 560 km. A train starts from Delhi at 6 pm and travels towards Amritsar at 80 kmph and B train starts from Amritsar and travels towards Delhi at 8:30 pm at the speed of 40 kmph. At what time will they meet?",
+    "options": [
+      "11:00 PM",
+      "11:30 PM",
+      "12:00 AM",
+      "12:30 AM",
+      "Non Of These"
+    ],
+    "correct": "11:30 PM",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 4,
+    "question": "A policeman saw a murderer from a distance of 500 m and started running towards him. If speed of policeman and murderer are 50 km/h and 40 km/h respectively, find the distance murderer had run before being caught.",
+    "options": [
+      "3 km",
+      "2 km",
+      "2.5 km",
+      "5 km",
+      "Non Of These"
+    ],
+    "correct": "2 km",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 7,
+    "question": "After travelling a distance of 60 km car meets with an accident and its speed becomes 5/6th of its actual speed and reaches 36 minutes late. If this accident had occurred after travelling 30 km more car would have reached the destination 30 minutes late. Find the distance travelled by the car.",
+    "options": [
+      "360 km",
+      "300 km",
+      "240 km",
+      "180 km",
+      "Non Of These"
+    ],
+    "correct": "300 km",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 2,
+    "question": "Two persons P and Q start simultaneously in the opposite direction from two points A and B at 9:00 pm. Each of them runs towards starting point of other. After crossing each other P and Q took 6 hours 15 minutes and 4 hours to reach their destination. Find the ratio of their speed.",
+    "options": [
+      "5:4",
+      "5:6",
+      "6:5",
+      "4:5",
+      "Non Of These"
+    ],
+    "correct": "4:5",
+    "topic": "Speed Time Distance"
+  },
+  {
+    "id": 3,
+    "question": "P and Q start moving towards each other from places X and Y respectively at the same time. The speed of P is 20% more than that of Q. After meeting on the way, P and Q take T minutes and 6 hours to reach Y and X respectively. What is the value of T?",
+    "options": [
+      "160",
+      "200",
+      "250",
+      "300",
+      "Non Of These"
+    ],
+    "correct": "250",
+    "topic": "Speed Time Distance"
+  }
+
+
+]
