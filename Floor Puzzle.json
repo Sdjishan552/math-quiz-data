@@ -38,6 +38,7 @@
 "correct": "The one who lives three floors below M",
 "topic": "Floor Puzzle"
 },
+
 {
 "id": 5,
 "question": "There are seven people A, B, C, D, E, F and G are living in a 7 floor building on different floors from top to bottom (such as ground floor is numbered as 1 and top floor is numbered as 7) but not necessarily in the same order. A lives on the 2nd floor. E lives immediately above F. B lives above F. A lives immediately above D and immediately below G. There are four persons live between D and C. Who among the following lives on ground floor?",
@@ -150,7 +151,7 @@
 "Only III and IV",
 "Only II and III",
 "Only II and IV",
-"None of the above"
+"NOT"
 ],
 "correct": "Only II and III",
 "topic": "Floor Puzzle"
@@ -220,4 +221,5 @@
 "correct": "M-Samoyed",
 "topic": "Floor Puzzle"
 }
+
 ]
