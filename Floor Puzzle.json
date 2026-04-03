@@ -65,7 +65,7 @@
 "id": 9,
 "question": "There are eight people A, B, C, D, E, F, G and H are living in a 8 floor Building on different floors from top to bottom (such as ground floor is numbered as 1 and top floor is numbered as 8) but not necessarily in the same order. A lives on an even-numbered floor but not on the floor numbered second or fourth. Only three floors are there between A and B. Only two people live between C and E. F lives on a floor above D. There are equal numbers of floors between the floors on which E and B live and between the floors on which A and E live. H lives immediately below D’s floor. G lives immediately below A’s floor. Who lives on floor number Two?",
 "options": ["C","F","A","E","None of these"],
-"correct": "D",
+"correct": "None of these",
 "topic": "Floor Puzzle"
 },
 {
