@@ -105,7 +105,7 @@
 },
 {
 "id": 15,
-"question": "Six persons – Q, R, S, T, U and V are living in a six-storey building, but not necessarily in the same order. They like different animals – Dog, Hen, Horse, Cat, Duck and Fish. The lowermost floor is numbered as 1 and the floor immediately above is numbered as 2 and so on. Only two persons live between the one who likes horse and U, who lives above the third floor. T lives immediately below the one who likes horse. The one who likes cat lives two floors above T. Q lives three floors above the one who likes dog. Q doesn’t like cat. No one lives between the one who likes duck and fish. Only three persons live between R and the one who likes fish. The one who likes dog lives on the adjacent floor of S. Who among the following person likes cat?",
+"question": "Six persons Q, R, S, T, U and V are living in a six-storey building, but not necessarily in the same order. They like different animals – Dog, Hen, Horse, Cat, Duck and Fish. The lowermost floor is numbered as 1 and the floor immediately above is numbered as 2 and so on. Only two persons live between the one who likes horse and U, who lives above the third floor. T lives immediately below the one who likes horse. The one who likes cat lives two floors above T. Q lives three floors above the one who likes dog. Q doesn’t like cat. No one lives between the one who likes duck and fish. Only three persons live between R and the one who likes fish. The one who likes dog lives on the adjacent floor of S. Who among the following person likes cat?",
 "options": ["R","The one who lives immediately above S","The one who lives on the sixth floor","T","NOT"],
 "correct": "The one who lives immediately above S",
 "topic": "Floor Puzzle"
