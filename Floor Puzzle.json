@@ -1,0 +1,225 @@
+[
+{
+"id": 1,
+"question": "Nine persons- A, B, C, D, E, F, G, H and I are living in a nine-storey building but not necessarily in the same order. The bottommost floor is numbered as 1 and the floor immediately above it is numbered as 2 and so on. D lives on an even numbered floor but above fifth floor. Only three persons live between D and C. A lives two floors above C. G lives immediately above A. Only one person lives between G and B, who lives above A. As many floors below B as above F. I lives above H but below E, who doesn’t live on the topmost floor. Who among the following person lives on the fifth floor?",
+"options": [
+"G",
+"E",
+"I",
+"B",
+"C"
+],
+"correct": "E",
+"topic": "Floor Puzzle"
+},
+{
+"id": 2,
+"question": "Eight persons- A, C, D, E, F, G, H and J are living on eight different floors of the building but not necessarily in the same order. The lowermost floor is numbered as one and the floor immediately above it is numbered as 2 and so on. Only two persons live between A and F who lives three floors below C. H lives on an odd-numbered floor but above F. G lives adjacent floor of H. The number of persons living below G is the same as the number of persons living above D. J lives above E but one of them lives on an odd-numbered floor. What is the sum of the floor numbers of D and G?",
+"options": [
+"Eight",
+"Seven",
+"Six",
+"Nine",
+"Three"
+],
+"correct": "Nine",
+"topic": "Floor Puzzle"
+},
+{
+"id": 3,
+"question": "Eight persons- J, K, L, M, N, O, P and Q are living in an eight-storey building, but not necessarily in the same order. The lower-most floor is numbered as 1, the floor immediately above it is numbered as 2 and so on. Only three persons live between M and J who doesn’t live below the seventh floor. Only one person lives between M and N who lives three floors above K. P lives on an even numbered floor but does not live adjacent to J. The number of persons living above P is one more than the number of persons living between P and L. O lives neither on the topmost nor on the lowermost floor. Who among the following person lives on the lowermost floor?",
+"options": [
+"The one who lives three floors below M",
+"P",
+"The one who lives immediately below K",
+"L",
+"None of the above"
+],
+"correct": "The one who lives three floors below M",
+"topic": "Floor Puzzle"
+},
+ 
+{
+"id": 5,
+"question": "There are seven people A, B, C, D, E, F and G are living in a 7 floor building on different floors from top to bottom (such as ground floor is numbered as 1 and top floor is numbered as 7) but not necessarily in the same order. A lives on the 2nd floor. E lives immediately above F. B lives above F. A lives immediately above D and immediately below G. There are four persons live between D and C. Who among the following lives on ground floor?",
+"options": [
+"A",
+"D",
+"B",
+"G",
+"None of these"
+],
+"correct": "D",
+"topic": "Floor Puzzle"
+},
+{
+"id": 6,
+"question": "Eight persons- P, Q, R, S, T, U, V and W are booking the room in eight floored building in such a way that the lowermost floor is numbered as one and the topmost floor is numbered as eight but not necessarily in the same order. Not more than two persons booked the room above W. The number of persons booked the room above W is the same as the number of persons booked the room below Q. T booked three floors below P who booked on the odd-numbered floor. At least two persons booked the room above P. The number of persons booked the room between W and P is the same as the number of persons booked between Q and V. S booked one of the floors above R but below U. R does not book on the adjacent floor of V. Who among the following person booked two floors above the one who booked immediately below V?",
+"options": [
+"S",
+"U",
+"The one who booked immediately below W",
+"The one who booked two floors below T",
+"Q"
+],
+"correct": "The one who booked immediately below W",
+"topic": "Floor Puzzle"
+},
+{
+"id": 7,
+"question": "There are eight people A, B, C, D, E, F, G and H are living in a 8 floor building on different floors from top to bottom (such as ground floor is numbered as 1 and top floor is numbered as 8) but not necessarily in the same order. There is a gap of three floors between B and D and both of them live on odd number of floors. F lives just above H who lives on an even numbered floor. A lives on floor number 6. Only one person lives between B and E. D lives above A. Three persons live between C and H. Who lives on floor number five?",
+"options": [
+"C",
+"F",
+"D",
+"G",
+"None of these"
+],
+"correct": "F",
+"topic": "Floor Puzzle"
+},
+{
+"id": 8,
+"question": "There are eight people A, B, C, D, E, F, G and H are living in a 8 floor building on different floors from top to bottom (such as ground floor is numbered as 1 and top floor is numbered as 8) but not necessarily in the same order. F lives on an odd number floor but does not live on 3rd floor. H lives immediate below F. More than two persons live between G and H. There are six persons live between A and G. D lives immediate above E but live below B. C does not live above F. E does not live immediate above G. Who among the following live on the odd floor?\nI. F\nII. B\nIII. C",
+"options": [
+"Only I",
+"Only II",
+"Only I and III",
+"Only I and II",
+"Only III"
+],
+"correct": "Only I and II",
+"topic": "Floor Puzzle"
+},
+{
+"id": 9,
+"question": "There are Eleven people A, B, C, D, E, F, G, H, I, J and K are living in a 11 floor building on different floors from top to bottom (such as ground floor is numbered as 1 and top floor is numbered as 11) but not necessarily in the same order. A live above F. I live above E but not immediately. E does not live immediately above or immediately below C. G lives on 7th floor. Two person live between G and H. D live immediately above H. There is as many person living above D as below B. Five persons live between F and K, who lives below G. Only one person live between G and C. J lives below C. Who among the following live immediately above C?",
+"options": [
+"D",
+"I",
+"F",
+"E",
+"None of these"
+],
+"correct": "I",
+"topic": "Floor Puzzle"
+},
+{
+"id": 10,
+"question": "There are eight people A, B, C, D, E, F, G and H are living in a 8 floor Building on different floors from top to bottom (such as ground floor is numbered as 1 and top floor is numbered as 8) but not necessarily in the same order. A lives on an even-numbered floor but not on the floor numbered second or fourth. Only three floors are there between A and B. Only two people live between C and E. F lives on a floor above D. There are equal numbers of floors between the floors on which E and B live and between the floors on which A and E live. H lives immediately below D’s floor. G lives immediately below A’s floor. Who lives on floor number Two?",
+"options": [
+"C",
+"F",
+"A",
+"E",
+"None of these"
+],
+"correct": "D",
+"topic": "Floor Puzzle"
+},
+{
+"id": 11,
+"question": "Nine persons- R, S, T, U, V, W, X, Y, and Z are living in the nine-floored building in such a way that the lowermost floor is numbered as one and the topmost floor is numbered as nine. Z lives on an odd-numbered floor but above fourth floor. Only three persons live between Z and V. X lives three floors above the one who lives immediately below R. R lives adjacent floor of V who does not live on the adjacent floor of X. The number of floors above X is the same as the number of floors below Y. Only one person lives between Y and W. S lives two floors below the one who lives immediately above W. U neither lives adjacent floor of Y nor R. Which of the following statement/s is/are true?\nI. Only two floors are between S and T\nII. Only one person lives above W\nIII. No one lives below V\nIV. X lives below R",
+"options": [
+"Only II and III",
+"Only III and IV",
+"Only I and II",
+"Only II and IV",
+"Only I and IV"
+],
+"correct": "Only II and IV",
+"topic": "Floor Puzzle"
+},
+{
+"id": 12,
+"question": "Nine persons- G, H, I, J, K, L, M, N, and O are living in the nine-floored building. The lowermost floor is numbered as one and the topmost floor is numbered as nine. All the information is not necessarily in the same order. L lives on an even number floor but above fifth floor. The number of floors above L is the same as the number of floors below H. Only two floors are between H and J. N lives three floors above M who lives on an odd number floor but not on the lowermost floor. O lives on an even number floor but not the adjacent floor of J. G lives above I but not above K. Who among the following person lives between K and L?\nI. The one who lives immediately above J\nII. The one who lives two-person below G\nIII. O\nIV. The one who lives immediately below N",
+"options": [
+"Only I and III",
+"Only III and IV",
+"Only I and IV",
+"Only II and IV",
+"Only I and II"
+],
+"correct": "Only I and IV",
+"topic": "Floor Puzzle"
+},
+{
+"id": 13,
+"question": "Nine persons- A, B, C, D, E, F, G, H and I are living in the nine-storey building but not necessarily in the same order. The lowermost floor is numbered as one and the topmost floor is numbered as nine. F lives three floors above I who lives on an odd number floor. The number of floors above F is the same as the number of floors below G. D lives two floors above H. H does not live adjacent floor of G. The number of floors between F and I is the same as the number of floors between H and E. E does not live on the adjacent floor of F. A lives on an even number floor. C and E are not live on the adjacent floors. Which of the following statement is/are true?\nI. Four floors are between D and I\nII. G lives immediately above C\nIII. E lives two floors above G\nIV. No one lives below D",
+"options": [
+"Only I and III",
+"Only III and IV",
+"Only II and III",
+"Only II and IV",
+"NOT"
+],
+"correct": "Only II and III",
+"topic": "Floor Puzzle"
+},
+{
+"id": 14,
+"question": "There are eight people A, B, C, D, J, K, L and M are living in a 8 floor Building on different floors from top to bottom (such as ground floor is numbered as 1 and top floor is numbered as 8) but not necessarily in the same order. J lives immediately above the floor on which C lives but not on an even numbered floor. D lives on the floor which is a prime number but not on the 3rd floor. K lives immediately below the floor on which B lives. The person lives between A and C is not more than three and not less than two. A live on the topmost floor. There is one person living between the floors on which J and D lives. M lives immediately above the floor on which B lives. Who among the following live immediately above M?",
+"options": [
+"D",
+"C",
+"J",
+"L",
+"None of these"
+],
+"correct": "C",
+"topic": "Floor Puzzle"
+},
+{
+"id": 15,
+"question": "Seven persons viz. M, N, O, P, Q, R and S are living in different floors of a seven-storey building such that the lowermost floor is numbered as 1 and the topmost floor is numbered as 7. Each person is from different countries viz. China, India, Japan, Korea, Russia, Spain and USA. All the information is not necessarily in the same order. O lives on an even-numbered floor and three floors below the one who is from Korea. P lives immediately below the one who is from Korea and two floors above the one who is from Japan. The number of floors above P is the same as the number of floors below the one who is from Russia. R lives three floors above the one who is from Russia, who lives immediately above M. The one who is from Spain lives immediately below the one who is from India and immediately above N. S is neither from Spain nor from USA. Who among the following person is from Spain?",
+"options": [
+"Person who lives immediately below P",
+"R",
+"Person who lives on 6th floor",
+"S",
+"None of these"
+],
+"correct": "Person who lives on 6th floor",
+"topic": "Floor Puzzle"
+},
+{
+"id": 16,
+"question": "Six persons – Q, R, S, T, U and V are living in a six-storey building, but not necessarily in the same order. They like different animals – Dog, Hen, Horse, Cat, Duck and Fish. The lowermost floor is numbered as 1 and the floor immediately above is numbered as 2 and so on. Only two persons live between the one who likes horse and U, who lives above the third floor. T lives immediately below the one who likes horse. The one who likes cat lives two floors above T. Q lives three floors above the one who likes dog. Q doesn’t like cat. No one lives between the one who likes duck and fish. Only three persons live between R and the one who likes fish. The one who likes dog lives on the adjacent floor of S. Who among the following person likes cat?",
+"options": [
+"R",
+"The one who lives immediately above S",
+"The one who lives on the sixth floor",
+"T",
+"NOT"
+],
+"correct": "The one who lives immediately above S",
+"topic": "Floor Puzzle"
+},
+{
+"id": 17,
+"question": "Nine floors of a building are made of nine different flooring materials viz. Brick, Carpet, Concrete, Glass, Granite, Lamination, Marble, Tiles and Wood, but not necessarily in the same order. The lowermost floor is numbered as 1 and the floor immediately above it is numbered as 2 and so on. Only four floors are there between the brick floor and the concrete floor which is immediately above the carpet floor and below the brick floor. The number of floors above the carpet floor is one more than the number of floors below the tiles floor. Only two floors are there between the tiles floor and the wood floor. The number of floors between the wood floor and the concrete floor is the same as the number of floors between the carpet floor and the lamination floor. One of the even numbered floors is made of granite floor and is immediately above the marble floor. Four of the following five are alike in a certain way and hence form a group. Find the one that doesn’t belong to that group.",
+"options": [
+"Glass",
+"Marble",
+"Tiles",
+"Brick",
+"Concrete"
+],
+"correct": "Brick",
+"topic": "Floor Puzzle"
+},
+{
+"id": 18,
+"question": "Six persons- L, M, N, O, P and Q are living in the six storey building. The lowermost floor is numbered as one and the topmost floor is numbered as six. They are having different breeds of dogs- Bulldog, Pointer, Samoyed, Sarabi, Sheltie and Poodle but not necessarily in the same order. N has Pointer who lives two floors above the one who has Sarabi. The one who has Sarabi does not live on an even number floor. Q lives two floors above the one who lives three floors below M. The one who has Sheltie is living two floors below M. L lives adjacent floor of N. Neither M nor Q has Samoyed. The one who has Samoyed is living above the one who has Sarabi but not lives on the topmost floor. P has neither Sheltie nor Samoyed. The number of people who live between O and the one who has Bulldog is the same as between L and O. Which of the following combination is true?",
+"options": [
+"Q-Bulldog",
+"O-Pointer",
+"P-Sarabi",
+"N-Poodle",
+"M-Samoyed"
+],
+"correct": "M-Samoyed",
+"topic": "Floor Puzzle"
+}
+
+]
