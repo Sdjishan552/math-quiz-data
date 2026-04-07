@@ -1,0 +1,340 @@
+[
+  {
+    "id": 1,
+    "question": "A can swim 14 kmph in still water. If the velocity of the stream is 6 kmph, find the time taken by A to swim to a place 120 km upstream and coming back downstream to the starting point.",
+    "options": [
+      "35 hr",
+      "40 hr",
+      "32 hr",
+      "30 hr",
+      "None of these"
+    ],
+    "correct": "None of these",
+    "topic": "Boat and Stream"
+  },
+  {
+    "id": 2,
+    "question": "X can row at a speed of 37.5 km/hr in still water to a certain upstream point and back to the starting point in a river which flows at 7.5 km/hr. Find his average speed for the total journey.",
+    "options": [
+      "30 kmph",
+      "35 kmph",
+      "36 kmph",
+      "37.5 kmph",
+      "None of these"
+    ],
+    "correct": "36 kmph",
+    "topic": "Boat and Stream"
+  },
+  {
+    "id": 3,
+    "question": "A boat takes six hours to travel a certain distance downstream and 5 hours to travel half of the same distance upstream. If the speed of stream is 4 km/hr, find the speed of boat in still water.",
+    "options": [
+      "32",
+      "16",
+      "8",
+      "4",
+      "None of these"
+    ],
+    "correct": "16",
+    "topic": "Boat and Stream"
+  },
+  {
+    "id": 4,
+    "question": "The speed of a boat in still water is 36 km/hr and speed of current is 8 km/hr. If time taken to cover a certain distance upstream is 22 hours, then how long will the boat take to cover the same distance downstream?",
+    "options": [
+      "7 hours",
+      "12 hours",
+      "14 hours",
+      "18 hours",
+      "None of these"
+    ],
+    "correct": "14 hours",
+    "topic": "Boat and Stream"
+  },
+  {
+    "id": 5,
+    "question": "A boat goes 16 km an hour in still water, it takes thrice as much time in going the same distance against the current as compared to the direction of the current. Find the speed of the current.",
+    "options": [
+      "6 kmph",
+      "8 kmph",
+      "10 kmph",
+      "12 kmph",
+      "None of these"
+    ],
+    "correct": "8 kmph",
+    "topic": "Boat and Stream"
+  },
+  {
+    "id": 6,
+    "question": "P can row a certain distance downstream in 20 hours and return the same distance in 28 hours. If the speed of the stream is 8 kmph, find the speed of P in still water.",
+    "options": [
+      "48 kmph",
+      "40 kmph",
+      "32 kmph",
+      "24 kmph",
+      "None of these"
+    ],
+    "correct": "48 kmph",
+    "topic": "Boat and Stream"
+  },
+  {
+    "id": 7,
+    "question": "A boat running upstream takes 8 hours 48 minutes to cover a certain distance, while it takes 5.5 hours to cover the same distance running downstream. What is the ratio between the speed of the boat and speed of the water current respectively?",
+    "options": [
+      "11:8",
+      "13:11",
+      "3:13",
+      "13:3",
+      "None of these"
+    ],
+    "correct": "13:3",
+    "topic": "Boat and Stream"
+  },
+  {
+    "id": 8,
+    "question": "The speed of boat in still water is 700% more than speed of stream. Boat travels distance of 63 km in downstream in 14 hrs. Then find the time taken by boat to travel 56 km in upstream.",
+    "options": [
+      "7 hours",
+      "8 hours",
+      "12 hours",
+      "16 hours",
+      "20 hours"
+    ],
+    "correct": "16 hours",
+    "topic": "Boat and Stream"
+  },
+  {
+    "id": 9,
+    "question": "A boat can travel 55 km downstream in 50 min. The ratio of the speed of the boat in still water to the speed of the stream is 7:4. How much time will the boat take to cover 60 km upstream?",
+    "options": [
+      "2 hr 30 min",
+      "3 hr 20 min",
+      "4 hr 45 min",
+      "6 hr 40 min",
+      "None of these"
+    ],
+    "correct": "3 hr 20 min",
+    "topic": "Boat and Stream"
+  },
+  {
+    "id": 10,
+    "question": "The ratio of the speed of the boat in still water to the speed of the stream is 5:2. A boat goes 21 km in 28 minutes upstream, find the time taken by boat to cover the distance of 38.5 km downstream.",
+    "options": [
+      "18 min",
+      "21 min",
+      "22 min",
+      "24 min",
+      "None of these"
+    ],
+    "correct": "22 min",
+    "topic": "Boat and Stream"
+  },
+  {
+    "id": 11,
+    "question": "Z can row to a place 180 km away and come back in 14 hours. He finds that he can row 7 km with the stream in the same time as 2 km against the stream. What is the speed of stream?",
+    "options": [
+      "4 kmph",
+      "6 kmph",
+      "8 kmph",
+      "12 kmph",
+      "None of these"
+    ],
+    "correct": "None of these",
+    "topic": "Boat and Stream"
+  },
+  {
+    "id": 12,
+    "question": "A boat can row to a place 192 km away and come back in 7 hours. The time to row 16 km with the stream is same as the time to row 12 km against the stream. Find the speed of current.",
+    "options": [
+      "2 kmph",
+      "4 kmph",
+      "6 kmph",
+      "8 kmph",
+      "None of these"
+    ],
+    "correct": "8 kmph",
+    "topic": "Boat and Stream"
+  },
+{
+    "id": 13,
+    "question": "X goes downstream with a boat to some destination and returns upstream to his original place in 32 hours. Find the distance of the destination from the starting position, if the speed of the boat in still water and the stream are 12 km/hr and 3 km/hr respectively.",
+    "options": [
+      "200 km",
+      "400 km",
+      "110 km",
+      "180 km",
+      "None of these"
+    ],
+    "correct": "180 km",
+    "topic": "Boat and Stream"
+  },
+  {
+    "id": 14,
+    "question": "The speed of boat in still water is 140% more than the speed of stream. Find the total time taken by the boat to travel 85 km downstream and 63 km upstream.",
+    "options": [
+      "5 hrs",
+      "6 hrs",
+      "7 hrs",
+      "8 hrs",
+      "None of these"
+    ],
+    "correct": "7 hrs",
+    "topic": "Boat and Stream"
+  },
+  {
+    "id": 15,
+    "question": "A boat covers 105 km in downstream in t hours and 90 km upstream in (t+6) hours. If the ratio of speed of boat in still water to the downstream speed of river is 6:7, then find the total time taken by the boat to cover 35 km in both downstream and upstream.",
+    "options": [
+      "20 h",
+      "24 h",
+      "18 h",
+      "12 h",
+      "28 h"
+    ],
+    "correct": "24 h",
+    "topic": "Boat and Stream"
+  },
+  {
+    "id": 16,
+    "question": "Downstream speed of the boat is 5 km/hr more than the speed of the boat in still water and the time taken by the boat to cover 100 km in downstream is equal to the time taken by the boat to cover 80 km in upstream. Find the distance covered by the boat in still water in 4 hours.",
+    "options": [
+      "150 km",
+      "180 km",
+      "200 km",
+      "220 km",
+      "None of these"
+    ],
+    "correct": "180 km",
+    "topic": "Boat and Stream"
+  },
+  {
+    "id": 17,
+    "question": "The speed of boat in still water is (X + 4) kmph. The boat takes 2 hours to cover D km in downstream while boat can cover same distance in still water in 2.4 hours. Time taken by boat to cover 32 km upstream is 4 hours. Find time taken to cover 20 km downstream.",
+    "options": [
+      "1 hr 15 min",
+      "2 hr",
+      "5 hr",
+      "2 hr 30 min",
+      "1 hr 40 min"
+    ],
+    "correct": "1 hr 40 min",
+    "topic": "Boat and Stream"
+  },
+  {
+    "id": 18,
+    "question": "A man can row 50 km upstream and 72 km downstream in 9 hours. He can also row 70 km upstream and 90 km downstream in 12 hours. Find the rate of current.",
+    "options": [
+      "3 kmph",
+      "4 kmph",
+      "5 kmph",
+      "6 kmph",
+      "None of these"
+    ],
+    "correct": "4 kmph",
+    "topic": "Boat and Stream"
+  },
+  {
+    "id": 19,
+    "question": "A man can row 40 km upstream and 42 km downstream in 13 hours. He can also row 32 km upstream and 56 km downstream in 12 hours. Find the rate of current.",
+    "options": [
+      "5 kmph",
+      "7 kmph",
+      "10 kmph",
+      "12 kmph",
+      "None of these"
+    ],
+    "correct": "5 kmph",
+    "topic": "Boat and Stream"
+  },
+{
+    "id": 20,
+    "question": "The difference between upstream and downstream speed of a boat is 6 kmph. Boat can cover a distance of 70 km upstream in T hours. Speed of boat in still water is 10 kmph. Find the distance covered by boat in downstream in (T+1) hours.",
+    "options": [
+      "77 km",
+      "143 km",
+      "133 km",
+      "110 km",
+      "130 km"
+    ],
+    "correct": "143 km",
+    "topic": "Boat and Stream"
+  },
+  {
+    "id": 21,
+    "question": "A boat covers (D+80) km in downstream and D km upstream in total 13 1/3 hours. Sum of speed of the boat in upstream and downstream is 48 kmph and speed of boat in still water is 300% more than speed of stream. Find time taken by boat to cover (D+30) km in upstream.",
+    "options": [
+      "12 1/3 hours",
+      "6 1/3 hours",
+      "8 hours",
+      "10 hours",
+      "None of these"
+    ],
+    "correct": "8 hours",
+    "topic": "Boat and Stream"
+  },
+  {
+    "id": 22,
+    "question": "Time taken to cover (X+6) km upstream is 5 times the time taken to cover (X-2) km downstream. If ratio of speed of boat in upstream to downstream is 2:5 and time taken to cover (X+8) km downstream is 54 minutes, then what will be the speed of current?",
+    "options": [
+      "2 km/hr",
+      "4 km/hr",
+      "6 km/hr",
+      "8 km/hr",
+      "12 km/hr"
+    ],
+    "correct": "6 km/hr",
+    "topic": "Boat and Stream"
+  },
+  {
+    "id": 23,
+    "question": "A, B and C are situated at the bank of river which is flowing at a constant rate. B is at an equal distance with A and C. X takes 12 hours to swim from A to B and B to A. Also, he takes 8 hours to swim from A to C. What is the ratio of speed of X in still water and speed of stream?",
+    "options": [
+      "3:2",
+      "2:1",
+      "3:1",
+      "5:3",
+      "None of these"
+    ],
+    "correct": "3:1",
+    "topic": "Boat and Stream"
+  },
+  {
+    "id": 24,
+    "question": "A boat takes 22 hrs for travelling downstream from point A to point B and coming back to point C at 3/4 of the total distance between A and B from point B. If the velocity of the stream is 6 kmph and the speed of the boat in still water is 26 kmph, what is the distance between A and B?",
+    "options": [
+      "240 km",
+      "300 km",
+      "320 km",
+      "360 km",
+      "400 km"
+    ],
+    "correct": "320 km",
+    "topic": "Boat and Stream"
+  },
+  {
+    "id": 25,
+    "question": "There are two places P and Q which are separated by a distance of 96 km. Two boats start from both the places at the same time towards each other. If the speed of P and Q is 10 kmph and 14 kmph respectively and the river flows at the speed of 6 km/hr, find in how much time they will meet each other.",
+    "options": [
+      "2 hr",
+      "4 hr",
+      "6 hr",
+      "8 hr",
+      "Cannot be determined"
+    ],
+    "correct": "4 hr",
+    "topic": "Boat and Stream"
+  },
+  {
+    "id": 26,
+    "question": "A boat whose speed in still water is twice of speed of stream when travelling upstream found that a ship of 100 m length coming from opposite direction crosses it completely in 20 seconds. The ship can travel a distance of 18 km downstream in 200/3 minutes. Find time taken by boat to travel 400 m upstream (length of boat negligible).",
+    "options": [
+      "13.33 min",
+      "6.66 min",
+      "3.33 min",
+      "1.33 min",
+      "Cannot be determined"
+    ],
+    "correct": "13.33 min",
+    "topic": "Boat and Stream"
+  }
+]
