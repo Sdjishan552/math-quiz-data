@@ -149,21 +149,21 @@
   {
     "id": 22,
     "question": "A train met with an accident 120 km from station A. It completes the remaining journey at 2/3 of the previous speed and reached 1 hr 30 min late at station Q. If the accident had taken place 60 km further, it would have been only 60 min late. What is the original speed of the train?",
-    "options": ["60 km/hr", "45 km/hr", "50 km/hr", "48 km/hr"],
+    "options": ["60 km/hr", "45 km/hr", "50 km/hr", "48 km/hr", "None of these"],
     "correct": "60 km/hr",
     "topic": "Problems on Train"
   },
   {
     "id": 23,
     "question": "Total distance between Mumbai to Chennai is 720 km. A train starts running with a speed of 90 km/hr from Mumbai to Chennai while another train starts journey after 2 hours of first train and reaches Chennai half an hour before first train. If first train stops for 300 seconds on each station and second train did not stop at any station, then find the ratio between speed of first train to speed of second train given that there is a station after every 72 km?",
-    "options": ["20:31", "25:32", "28:41", "30:47"],
+    "options": ["20:31", "25:32", "28:41", "30:47", "None of these"],
     "correct": "25:32",
     "topic": "Problems on Train"
   },
   {
     "id": 24,
     "question": "Travelling at its usual speed, a train takes 25 seconds to cross a pole. If the speed of train had been been 15% more, then it could cross a 488 metre long bridge in 35 seconds On a certain day, when the train was travelling 2m/s slower than usual, a child sitting near an emergency window, accidently dropped his Chocolate out of the train. 5 seconds after the Chocolate was dropped, the train was stopped and the child leaves the train through the same window and went and picked up the chocolate and ran back to the train through the same window. The total time between the event of the chocolate being dropped by the child and the event of the Child climbing the train with the toy be 80 seconds. If the child starts running at a certain speed and increases his speed by 4.8 km/hr after every 15 seconds, then find his final speed when he reached back the train.",
-    "options": ["14.4 km/hr", "24 km/hr", "33.6 km/hr", "Can't be determined"],
+    "options": ["14.4 km/hr", "24 km/hr", "33.6 km/hr", "Can't be determined", "None of these"],
     "correct": "24 km/hr",
     "topic": "Problems on Train"
   }
