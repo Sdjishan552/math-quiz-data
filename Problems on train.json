@@ -162,7 +162,7 @@
   },
   {
     "id": 24,
-    "question": "If the child starts running at a certain speed and increases his speed by 4.8 km/hr after every 15 seconds, then find his final speed when he reached back the train.",
+    "question": "Travelling at its usual speed, a train takes 25 seconds to cross a pole. If the speed of train had been been 15% more, then it could cross a 488 metre long bridge in 35 seconds On a certain day, when the train was travelling 2m/s slower than usual, a child sitting near an emergency window, accidently dropped his Chocolate out of the train. 5 seconds after the Chocolate was dropped, the train was stopped and the child leaves the train through the same window and went and picked up the chocolate and ran back to the train through the same window. The total time between the event of the chocolate being dropped by the child and the event of the Child climbing the train with the toy be 80 seconds. If the child starts running at a certain speed and increases his speed by 4.8 km/hr after every 15 seconds, then find his final speed when he reached back the train.",
     "options": ["14.4 km/hr", "24 km/hr", "33.6 km/hr", "Can't be determined"],
     "correct": "24 km/hr",
     "topic": "Problems on Train"
