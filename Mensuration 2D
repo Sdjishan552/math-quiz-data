@@ -1,0 +1,132 @@
+[
+{
+"id": 1,
+"question": "The perimeter of a square is 72 cm. If the radius of a circle is 4 cm less than the side of that square, then what is the area of the circle?",
+"options": [
+"1280",
+"1078",
+"1386",
+"924",
+"616"
+],
+"correct": "616",
+"topic": "Mensuration 2D"
+},
+{
+"id": 2,
+"question": "The area of a rectangular field is 140 cm² and the ratio between length and breadth is 7 : 5. If the cost of wire which is to be fenced is Rs. 4 per meter, then find the cost of fencing the field.",
+"options": [
+"Rs. 240",
+"Rs. 340",
+"Rs. 130",
+"Rs. 192",
+"Rs. 145"
+],
+"correct": "Rs. 192",
+"topic": "Mensuration 2D"
+},
+{
+"id": 3,
+"question": "The length of a rectangle is equal to the side of a square whose area is 484 m² and ratio between the length and breadth is 11 : 7. What is the difference between the half of the length and one-seventh of the breadth of the rectangle?",
+"options": [
+"9 m",
+"6 m",
+"12 m",
+"15 m",
+"17 m"
+],
+"correct": "9 m",
+"topic": "Mensuration 2D"
+},
+{
+"id": 4,
+"question": "There are two circles A and B and the radius of circle A is one fourth of the diameter of circle B. If the circumference of circle A is 44 cm, then find the difference between the area of two circles?",
+"options": [
+"480 cm²",
+"452 cm²",
+"154 cm²",
+"462 cm²",
+"282 cm²"
+],
+"correct": "462 cm²",
+"topic": "Mensuration 2D"
+},
+{
+"id": 5,
+"question": "The ratio of the length to breadth of the rectangular floor is 4 : 2. If Rs 2880 is required to paint the rectangular floor at the rate of Rs 10 per square meter, then what is the difference between the length and breadth of the rectangular floor?",
+"options": [
+"14",
+"12",
+"16",
+"18",
+"None of these"
+],
+"correct": "12",
+"topic": "Mensuration 2D"
+},
+{
+"id": 6,
+"question": "The perimeter of a rectangle is 100 m and the difference between the length and breadth of the rectangle is 10 m. Find the perimeter of a square whose area is 300 m² more than the area of a rectangle.",
+"options": [
+"140 m",
+"150 m",
+"120 m",
+"160 m",
+"None of these"
+],
+"correct": "120 m",
+"topic": "Mensuration 2D"
+},
+{
+"id": 7,
+"question": "The circumference of the semicircle is 72 cm and the length of the rectangle is twice the radius of the semicircle. If the area of the rectangle is 448 cm², then find the perimeter of the rectangle.",
+"options": [
+"72",
+"68",
+"84",
+"88",
+"64"
+],
+"correct": "88",
+"topic": "Mensuration 2D"
+},
+{
+"id": 8,
+"question": "The diagonal of a square is 45√2 cm, whose area is 13375 cm² less than the area of a circle. Find the circumference of the circle.",
+"options": [
+"450 cm",
+"440 cm",
+"480 cm",
+"460 cm",
+"None of these"
+],
+"correct": "440 cm",
+"topic": "Mensuration 2D"
+},
+{
+"id": 9,
+"question": "The sum of the length, breadth of the rectangle, and side of the square is 120 meters. If the perimeter of the rectangle is 180 meters, then find the area of the square.",
+"options": [
+"960",
+"900",
+"600",
+"400",
+"None of these"
+],
+"correct": "900",
+"topic": "Mensuration 2D"
+},
+{
+"id": 10,
+"question": "The length of a rectangle is 80% of the diagonal of a square of area 1225 cm². Then find the area of the rectangle, if its perimeter is 94√2 cm.",
+"options": [
+"1064",
+"500",
+"1604",
+"1016",
+"None of these"
+],
+"correct": "1064",
+"topic": "Mensuration 2D"
+}
+]
