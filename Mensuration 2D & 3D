@@ -1,0 +1,106 @@
+[
+{
+"id": 1,
+"question": "The ratio of the radius of the cylinder and sphere is 1 : 7 and the height of the cylinder is 21 cm. If the curved surface area of the cylinder is 660 cm², then what is the difference between the volume of the cylinder and the surface area of the sphere?",
+"options": [
+"13500",
+"13600",
+"13700",
+"13750",
+"None of these"
+],
+"correct": "13750",
+"topic": "Mensuration 3D"
+},
+{
+"id": 2,
+"question": "The radius of the cone is equal to the radius of the cylinder and the ratio of the radius and the height of the cylinder is 7 : 8 respectively. If the curved surface area of the cylinder and the volume of the cone is 1408 cm² and 2464 cm³, then find the height of the cone?",
+"options": [
+"7",
+"10",
+"12",
+"14",
+"11"
+],
+"correct": "12",
+"topic": "Mensuration 3D"
+},
+{
+"id": 3,
+"question": "If the circumference of a circle is 132 cm and ratio of the radius of the circle to cylinder is 3 : 2. If the volume of the cylinder is 3080 cm³, then what is the total surface area of the cylinder?",
+"options": [
+"1672",
+"1540",
+"1263",
+"1684",
+"None of these"
+],
+"correct": "1672",
+"topic": "Mensuration 3D"
+},
+{
+"id": 4,
+"question": "If the radius of the cylinder is equal to the radius of the circle whose area is 616 cm² and the height of the cylinder is 14.28% more than the radius of the cylinder. What is 25% of the volume of the cylinder?",
+"options": [
+"2546",
+"2464",
+"2358",
+"2678",
+"None of these"
+],
+"correct": "2464",
+"topic": "Mensuration 3D"
+},
+{
+"id": 5,
+"question": "If the radius of the cylinder is equal to the radius of the sphere whose surface area is 2464 cm² and the ratio of the radius to height of the cylinder is 2 : 3, what is the volume of the cylinder?",
+"options": [
+"12568",
+"12549",
+"12936",
+"12850",
+"None of these"
+],
+"correct": "12936",
+"topic": "Mensuration 3D"
+},
+{
+"id": 6,
+"question": "The breadth of a rectangle is 33.33% of the length of the rectangle and the area of the rectangle is equal to the area of the square. If the side of the square is 3√3 cm, then find the perimeter of the rectangle?",
+"options": [
+"25",
+"26",
+"24",
+"23",
+"None of these"
+],
+"correct": "24",
+"topic": "Mensuration 2D"
+},
+{
+"id": 7,
+"question": "Ratio of the length and breadth of the rectangle is 4 : 5. The perimeter of the rectangle is 8 cm less than the perimeter of square whose area is 841 cm². If the length of the rectangle is increased by 25%, then find the area of the rectangle?",
+"options": [
+"900",
+"836",
+"756",
+"1000",
+"None of these"
+],
+"correct": "900",
+"topic": "Mensuration 2D"
+},
+{
+"id": 8,
+"question": "If the circumference of the semicircle is 72 cm and the breadth of the rectangle is one-seventh of the area of the semicircle. If the area of the rectangle is 132 cm², then what is the perimeter of the rectangle?",
+"options": [
+"96",
+"94",
+"88",
+"75",
+"86"
+],
+"correct": "94",
+"topic": "Mensuration 2D"
+}
+]
