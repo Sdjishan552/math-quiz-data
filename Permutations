@@ -1,0 +1,114 @@
+[
+{
+"id": 1,
+"question": "In how many ways can the letters of the word MOBILE be arranged?",
+"options": ["6", "36", "120", "216", "720"],
+"correct": "720",
+"topic": "Permutation"
+},
+{
+"id": 2,
+"question": "In how many ways can the letters of the word EDUCATION be arranged?",
+"options": ["9!/2", "9!", "8!", "9!/3!", "None of these"],
+"correct": "9!",
+"topic": "Permutation"
+},
+{
+"id": 3,
+"question": "In how many ways can the letters of the word ROOM be arranged?",
+"options": ["24", "12", "6", "4", "None of these"],
+"correct": "12",
+"topic": "Permutation"
+},
+{
+"id": 4,
+"question": "In how many ways can the letters of the word REMOTE be arranged?",
+"options": ["720", "360", "240", "120", "None of these"],
+"correct": "360",
+"topic": "Permutation"
+},
+{
+"id": 5,
+"question": "In how many ways can the letters of the word ARITHMETIC be arranged?",
+"options": ["10!", "10!/2!", "10!/(2!2!)", "10!/4!", "None of these"],
+"correct": "10!/(2!2!)",
+"topic": "Permutation"
+},
+{
+"id": 6,
+"question": "In how many ways can the letters of the word TENNESSEANS be arranged?",
+"options": ["12!/4!", "12!/3!", "12!/2!", "12!/(4!3!3!)", "None of these"],
+"correct": "12!/(4!3!3!)",
+"topic": "Permutation"
+},
+{
+"id": 7,
+"question": "In how many ways can the letters of the word WATCHES be arranged so that the middle position is occupied by S?",
+"options": ["5040", "720", "360", "240", "None of these"],
+"correct": "720",
+"topic": "Permutation"
+},
+{
+"id": 8,
+"question": "In how many ways can the letters of the word ROBBERY be arranged so that the middle position is occupied by E?",
+"options": ["720", "360", "240", "180", "None of these"],
+"correct": "180",
+"topic": "Permutation"
+},
+{
+"id": 9,
+"question": "In how many ways can the letters of the word LOGITECH be arranged so that it begins with G and ends with H?",
+"options": ["5040", "720", "360", "120", "None of these"],
+"correct": "720",
+"topic": "Permutation"
+},
+{
+"id": 10,
+"question": "In how many ways can the letters of the word SILVER be arranged so that it begins and ends with a vowel?",
+"options": ["120", "72", "48", "24", "None of these"],
+"correct": "48",
+"topic": "Permutation"
+},
+{
+"id": 11,
+"question": "In how many ways can the letters of the word SAMSUNG be arranged so that it begins and ends with a vowel?",
+"options": ["120", "60", "48", "24", "None of these"],
+"correct": "120",
+"topic": "Permutation"
+},
+{
+"id": 12,
+"question": "In how many ways can the letters of the word MENTOS be arranged so that all vowels and all consonants come together?",
+"options": ["12", "24", "48", "96", "None of these"],
+"correct": "96",
+"topic": "Permutation"
+},
+{
+"id": 13,
+"question": "In how many ways can the letters of the word INTERPRETATION be arranged so that all vowels and all consonants come together?",
+"options": ["172800", "420480", "604800", "1036800", "None of these"],
+"correct": "604800",
+"topic": "Permutation"
+},
+{
+"id": 14,
+"question": "In how many ways can the letters of the word BOOKS be arranged so that all vowels come together?",
+"options": ["60", "24", "36", "48", "None of these"],
+"correct": "24",
+"topic": "Permutation"
+},
+{
+"id": 15,
+"question": "In how many ways can the letters of the word TORUKMAKTO be arranged so that all vowels come together?",
+"options": ["1440", "2880", "4320", "5760", "None of these"],
+"correct": "None of these",
+"topic": "Permutation"
+},
+{
+"id": 16,
+"question": "The number of words that can be formed out of the letters of the word SHOCKING so that the vowels occupy odd places is?",
+"options": ["1080", "2160", "4320", "8640", "None of these"],
+"correct": "8640",
+"topic": "Permutation"
+}
+]
