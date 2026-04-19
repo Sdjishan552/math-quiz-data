@@ -1,0 +1,80 @@
+[
+{
+"id": 1,
+"question": "Find the value of the following: A = 12C3, B = 25C22, C = 75C57.",
+"options": [
+"A = 220 B = 2500 C = 75",
+"A = 1320 B = 2400 C = 57",
+"A = 220 B = 2300 C = 10",
+"A = 1320 B = 2200 C = 0",
+"None of these"
+],
+"correct": "A = 220 B = 2300 C = 10",
+"topic": "Combination"
+},
+{
+"id": 2,
+"question": "In a room everybody shakes hands with everybody else. The total number of handshakes is 91. Find the total number of persons in the room.",
+"options": [
+"12",
+"14",
+"16",
+"18",
+"None of these"
+],
+"correct": "14",
+"topic": "Combination"
+},
+{
+"id": 3,
+"question": "How many different teams of 7 players can be formed from 4 male and 6 female players?",
+"options": [
+"840",
+"420",
+"360",
+"120",
+"None of these"
+],
+"correct": "120",
+"topic": "Combination"
+},
+{
+"id": 4,
+"question": "If 3 particular boys are to be selected always, then in how many ways can 5 boys be chosen from a total of 12 boys?",
+"options": [
+"792",
+"220",
+"66",
+"36",
+"None of these"
+],
+"correct": "36",
+"topic": "Combination"
+},
+{
+"id": 5,
+"question": "In how many different ways can a group of 5 men and 3 women be formed out of 8 men and 7 women?",
+"options": [
+"1568",
+"4704",
+"3136",
+"2352",
+"None of these"
+],
+"correct": "None of these",
+"topic": "Combination"
+},
+{
+"id": 6,
+"question": "In how many different ways a group of 7 men, 4 children and 5 women can be formed out of 9 men, 6 children and 7 women?",
+"options": [
+"5670",
+"11340",
+"22680",
+"34020",
+"None of these"
+],
+"correct": "11340",
+"topic": "Combination"
+}
+]
