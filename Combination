@@ -78,60 +78,60 @@
 "topic": "Combination"
 },
 {
-"id": "7(a)",
-"question": "There are 5 boys and 4 girls. Three students are to be selected. In how many ways can we select exactly 1 boy and 1 girl (and the third student can be anyone from remaining)?",
+"id": "7",
+"question": "There are 5 boys and 4 girls in a class. We have to select three students. In how many different ways can we select (i) two boys and one girl?",
 "options": [
-"20",
+"60",
 "40",
-"30",
-"84",
+"50",
+"45",
 "None of these"
 ],
 "correct": "40",
 "topic": "Combination"
 },
 {
-"id": "7(b)",
-"question": "There are 5 boys and 4 girls. Three students are to be selected. In how many ways can we select no girl?",
+"id": "8",
+"question": "There are 5 boys and 4 girls in a class. We have to select three students. In how many different ways can we select (ii) no one is a girl?",
 "options": [
 "5",
 "10",
-"20",
 "15",
+"20",
 "None of these"
 ],
 "correct": "10",
 "topic": "Combination"
 },
 {
-"id": "7(c)",
-"question": "There are 5 boys and 4 girls. Three students are to be selected. In how many ways can we select at least one girl?",
+"id": "9",
+"question": "There are 5 boys and 4 girls in a class. We have to select three students. In how many different ways can we select (iii) at least one girl will be present?",
 "options": [
+"64",
+"70",
 "74",
 "84",
-"70",
-"64",
 "None of these"
 ],
 "correct": "74",
 "topic": "Combination"
 },
 {
-"id": "2(a)",
-"question": "There are 4 black, 5 red, and 6 green balls. Three balls are selected. In how many ways can all balls be of different colours?",
+"id": "10",
+"question": "There are 4 black, 5 red and 6 green balls. We have to select 3 balls. In how many different ways can we select (i) all balls are of different colours?",
 "options": [
 "100",
 "120",
-"150",
 "90",
+"150",
 "None of these"
 ],
 "correct": "120",
 "topic": "Combination"
 },
 {
-"id": "2(b)",
-"question": "There are 4 black, 5 red, and 6 green balls. Three balls are selected. In how many ways can all balls be of the same colour?",
+"id": "11",
+"question": "There are 4 black, 5 red and 6 green balls. We have to select 3 balls. In how many different ways can we select (ii) all balls are of same colour?",
 "options": [
 "30",
 "34",
@@ -143,21 +143,21 @@
 "topic": "Combination"
 },
 {
-"id": "2(c)",
-"question": "There are 4 black, 5 red, and 6 green balls. Three balls are selected. In how many ways can no two balls be of the same colour?",
+"id": "12",
+"question": "There are 4 black, 5 red and 6 green balls. We have to select 3 balls. In how many different ways can we select (iii) no two balls are of same colour?",
 "options": [
 "120",
-"421",
-"300",
-"455",
+"150",
+"100",
+"90",
 "None of these"
 ],
 "correct": "120",
 "topic": "Combination"
 },
 {
-"id": "2(d)",
-"question": "There are 4 black, 5 red, and 6 green balls. Three balls are selected. In how many ways can at least one ball be red?",
+"id": "13",
+"question": "There are 4 black, 5 red and 6 green balls. We have to select 3 balls. In how many different ways can we select (iv) at least one is a red ball?",
 "options": [
 "335",
 "300",
