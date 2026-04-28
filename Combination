@@ -5,11 +5,11 @@
 "options": [
 "A = 220 B = 2500 C = 75",
 "A = 1320 B = 2400 C = 57",
-"A = 220 B = 2300 C = 10",
+"A = 220 B = 2300 C = 18",
 "A = 1320 B = 2200 C = 0",
 "None of these"
 ],
-"correct": "A = 220 B = 2300 C = 10",
+"correct": "A = 220 B = 2300 C = 18",
 "topic": "Combination"
 },
 {
