@@ -180,5 +180,318 @@
 ],
 "correct": "None of these",
 "topic": "Probability"
+},
+[
+{
+"id": 15,
+"question": "A card is drawn from a pack of cards. What is the probability that it is a card of black colour?",
+"options": [
+"26/52",
+"13/52",
+"8/52",
+"20/52",
+"None of these"
+],
+"correct": "26/52",
+"topic": "Probability"
+},
+{
+"id": 16,
+"question": "A card is drawn from a pack of cards. What is the probability that it is a spade card?",
+"options": [
+"13/52",
+"26/52",
+"4/52",
+"10/52",
+"None of these"
+],
+"correct": "13/52",
+"topic": "Probability"
+},
+{
+"id": 17,
+"question": "A card is drawn from a pack of cards. What is the probability that it is an honour card of red colour?",
+"options": [
+"6/52",
+"8/52",
+"4/52",
+"10/52",
+"None of these"
+],
+"correct": "8/52",
+"topic": "Probability"
+},
+{
+"id": 18,
+"question": "A card is drawn from a pack of cards. What is the probability that it is a card having number less than 7?",
+"options": [
+"20/52",
+"18/52",
+"24/52",
+"16/52",
+"None of these"
+],
+"correct": "20/52",
+"topic": "Probability"
+},
+{
+"id": 19,
+"question": "A card is drawn from a pack of cards. What is the probability that it is a card having number a multiple of 3?",
+"options": [
+"12/52",
+"9/52",
+"6/52",
+"15/52",
+"None of these"
+],
+"correct": "12/52",
+"topic": "Probability"
+},
+{
+"id": 20,
+"question": "A card is drawn from a pack of cards. What is the probability that it is a king or a queen card?",
+"options": [
+"8/52",
+"6/52",
+"4/52",
+"10/52",
+"None of these"
+],
+"correct": "8/52",
+"topic": "Probability"
+},
+{
+"id": 21,
+"question": "A card is drawn from a pack of cards. What is the probability that it is a digit card of heart?",
+"options": [
+"9/52",
+"8/52",
+"10/52",
+"7/52",
+"None of these"
+],
+"correct": "9/52",
+"topic": "Probability"
+},
+{
+"id": 22,
+"question": "A card is drawn from a pack of cards. What is the probability that it is a jack of black colour?",
+"options": [
+"2/52",
+"4/52",
+"1/52",
+"3/52",
+"None of these"
+],
+"correct": "2/52",
+"topic": "Probability"
+},
+{
+"id": 23,
+"question": "From a deck of 52 cards, 2 cards are drawn. What is the probability that both are aces?",
+"options": [
+"1/221",
+"4/221",
+"2/221",
+"1/52",
+"None of these"
+],
+"correct": "1/221",
+"topic": "Probability"
+},
+{
+"id": 24,
+"question": "From a deck of 52 cards, 2 cards are drawn. What is the probability of exactly one queen?",
+"options": [
+"16/221",
+"32/221",
+"12/221",
+"4/221",
+"None of these"
+],
+"correct": "32/221",
+"topic": "Probability"
+},
+{
+"id": 25,
+"question": "From a deck of 52 cards, 2 cards are drawn. What is the probability of no honour card?",
+"options": [
+"360/221",
+"140/221",
+"105/221",
+"150/221",
+"None of these"
+],
+"correct": "105/221",
+"topic": "Probability"
+},
+{
+"id": 26,
+"question": "From a deck of 52 cards, 2 cards are drawn. What is the probability of no digit card?",
+"options": [
+"60/221",
+"20/221",
+"55/221",
+"25/221",
+"None of these"
+],
+"correct": "20/221",
+"topic": "Probability"
+},
+{
+"id": 27,
+"question": "From a deck of 52 cards, 2 cards are drawn. What is the probability of one king and one queen?",
+"options": [
+"12/663",
+"8/663",
+"20/663",
+"4/663",
+"None of these"
+],
+"correct": "8/663",
+"topic": "Probability"
+},
+{
+"id": 28,
+"question": "A man has 5 red and 4 black balls. If two balls are picked randomly, what is the probability of getting balls of same color?",
+"options": [
+"13/36",
+"7/12",
+"4/9",
+"5/6",
+"None of these"
+],
+"correct": "4/9",
+"topic": "Probability"
+},
+{
+"id": 29,
+"question": "A person picks up 2 balls from a bag containing 7 blue and 8 red balls. What is the probability that both balls are of different colors?",
+"options": [
+"3/5",
+"7/10",
+"8/15",
+"11/20",
+"None of these"
+],
+"correct": "8/15",
+"topic": "Probability"
+},
+{
+"id": 30,
+"question": "A has 6 maroon, 4 orange and 5 brown balls. If 3 balls are selected randomly, what is the probability of getting at most 2 orange balls?",
+"options": [
+"147/150",
+"193/195",
+"223/225",
+"247/250",
+"None of these"
+],
+"correct": "247/250",
+"topic": "Probability"
+},
+{
+"id": 31,
+"question": "A bag contains (x+4) blue, 5 purple and 4 green balls. If two balls are taken out randomly and probability of getting both purple balls is 1/12, find total number of balls.",
+"options": [
+"16",
+"15",
+"20",
+"25",
+"None of these"
+],
+"correct": "16",
+"topic": "Probability"
+},{
+"id": 32,
+"question": "From a deck of 52 playing cards, 3 cards are drawn. What is the probability that all three are aces?",
+"options": [
+"18/5525",
+"6/5525",
+"4/22100",
+"12/22100",
+"None of these"
+],
+"correct": "4/22100",
+"topic": "Probability"
+},
+{
+"id": 12,
+"question": "From a deck of 52 playing cards, 3 cards are drawn. What is the probability that no queen is drawn?",
+"options": [
+"485 / 5525",
+"443 / 5525",
+"400 / 5525",
+"4324​/5525",
+"None of these"
+],
+"correct": "4324​/5525",
+"topic": "Probability"
+},
+{
+"id": 13,
+"question": "From a deck of 52 playing cards, 3 cards are drawn. What is the probability of one ace, one king and one queen?",
+"options": [
+"101 / 5525",
+"12 / 5525",
+"16 / 5525",
+"8 / 5525",
+"None of these"
+],
+"correct": "16 / 5525",
+"topic": "Probability"
+},
+{
+"id": 14,
+"question": "From a deck of 52 playing cards, 3 cards are drawn. What is the probability of one ace and two jacks?",
+"options": [
+"17 / 5525",
+"70 / 5525",
+"6 / 5525",
+"96 / 5525",
+"None of these"
+],
+"correct": "6 / 5525",
+"topic": "Probability"
+},
+{
+"id": 15,
+"question": "From a deck of 52 playing cards, 3 cards are drawn. What is the probability of two digit cards and one honour card of black colour?",
+"options": [
+"285 / 1105",
+"256 / 1105",
+"5040 / 22100",
+"5045 / 22100",
+"None of these"
+],
+"correct": "5040 / 22100",
+"topic": "Probability"
+},
+{
+"id": 16,
+"question": "From a deck of 52 playing cards, 3 cards are drawn. What is the probability of at least 2 face cards?",
+"options": [
+"152/1105",
+"143/1105",
+"2865/22000",
+"3522/22000",
+"None of these"
+],
+"correct": "143/1105",
+"topic": "Probability"
+},
+{
+"id": 17,
+"question": "From a deck of 52 playing cards, 3 cards are drawn. What is the probability of at most 2 kings?",
+"options": [
+"752/22100",
+"22096/22100​",
+"22096/5525",
+"4800/5525",
+"None of these"
+],
+"correct": "22096/22100​",
+"topic": "Probability"
 }
+
 ]
