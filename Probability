@@ -431,39 +431,39 @@
 "id": 34,
 "question": "From a deck of 52 playing cards, 3 cards are drawn. What is the probability of one ace, one king and one queen?",
 "options": [
-"101 / 5525",
-"12 / 5525",
-"16 / 5525",
-"8 / 5525",
+"101/5525",
+"12/5525",
+"16/5525",
+"8/5525",
 "None of these"
 ],
-"correct": "16 / 5525",
+"correct": "16/5525",
 "topic": "Probability"
 },
 {
 "id": 35,
 "question": "From a deck of 52 playing cards, 3 cards are drawn. What is the probability of one ace and two jacks?",
 "options": [
-"17 / 5525",
-"70 / 5525",
-"6 / 5525",
-"96 / 5525",
+"17/5525",
+"70/5525",
+"6/5525",
+"96/5525",
 "None of these"
 ],
-"correct": "6 / 5525",
+"correct": "6/5525",
 "topic": "Probability"
 },
 {
 "id": 36,
 "question": "From a deck of 52 playing cards, 3 cards are drawn. What is the probability of two digit cards and one honour card of black colour?",
 "options": [
-"285 / 1105",
-"256 / 1105",
-"5040 / 22100",
-"5045 / 22100",
+"285/1105",
+"256/1105",
+"5040/22100",
+"5045/22100",
 "None of these"
 ],
-"correct": "5040 / 22100",
+"correct": "5040/22100",
 "topic": "Probability"
 },
 {
