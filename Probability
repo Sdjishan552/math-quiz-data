@@ -59,7 +59,7 @@
 "5/8",
 "1/4",
 "4/15",
-"2"
+"2/15"
 ],
 "correct": "7/8",
 "topic": "Probability"
@@ -159,7 +159,7 @@
 "id": 13,
 "question": "When two dice are thrown simultaneously, find the probability that sum is a prime number and less than 8.",
 "options": [
-"13/36",
+"14/36",
 "5/36",
 "13/8",
 "13/36",
@@ -181,7 +181,6 @@
 "correct": "None of these",
 "topic": "Probability"
 },
-[
 {
 "id": 15,
 "question": "A card is drawn from a pack of cards. What is the probability that it is a card of black colour?",
@@ -309,7 +308,7 @@
 "4/221",
 "None of these"
 ],
-"correct": "32/221",
+"correct": "16/221",
 "topic": "Probability"
 },
 {
@@ -387,7 +386,7 @@
 "247/250",
 "None of these"
 ],
-"correct": "247/250",
+"correct": "None of these",
 "topic": "Probability"
 },
 {
@@ -419,13 +418,13 @@
 "id": 33,
 "question": "From a deck of 52 playing cards, 3 cards are drawn. What is the probability that no queen is drawn?",
 "options": [
-"485 / 5525",
-"443 / 5525",
-"400 / 5525",
-"4324​/5525",
+"485/5525",
+"443/5525",
+"400/5525",
+"4324/5525",
 "None of these"
 ],
-"correct": "4324​/5525",
+"correct": "4324/5525",
 "topic": "Probability"
 },
 {
@@ -485,12 +484,12 @@
 "question": "From a deck of 52 playing cards, 3 cards are drawn. What is the probability of at most 2 kings?",
 "options": [
 "752/22100",
-"22096/22100​",
+"22096/22100",
 "22096/5525",
 "4800/5525",
 "None of these"
 ],
-"correct": "22096/22100​",
+"correct": "22096/22100",
 "topic": "Probability"
 }
 
