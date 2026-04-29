@@ -416,7 +416,7 @@
 "topic": "Probability"
 },
 {
-"id": 12,
+"id": 33,
 "question": "From a deck of 52 playing cards, 3 cards are drawn. What is the probability that no queen is drawn?",
 "options": [
 "485 / 5525",
@@ -429,7 +429,7 @@
 "topic": "Probability"
 },
 {
-"id": 13,
+"id": 34,
 "question": "From a deck of 52 playing cards, 3 cards are drawn. What is the probability of one ace, one king and one queen?",
 "options": [
 "101 / 5525",
@@ -442,7 +442,7 @@
 "topic": "Probability"
 },
 {
-"id": 14,
+"id": 35,
 "question": "From a deck of 52 playing cards, 3 cards are drawn. What is the probability of one ace and two jacks?",
 "options": [
 "17 / 5525",
@@ -455,7 +455,7 @@
 "topic": "Probability"
 },
 {
-"id": 15,
+"id": 36,
 "question": "From a deck of 52 playing cards, 3 cards are drawn. What is the probability of two digit cards and one honour card of black colour?",
 "options": [
 "285 / 1105",
@@ -468,7 +468,7 @@
 "topic": "Probability"
 },
 {
-"id": 16,
+"id": 37,
 "question": "From a deck of 52 playing cards, 3 cards are drawn. What is the probability of at least 2 face cards?",
 "options": [
 "152/1105",
@@ -481,7 +481,7 @@
 "topic": "Probability"
 },
 {
-"id": 17,
+"id": 38,
 "question": "From a deck of 52 playing cards, 3 cards are drawn. What is the probability of at most 2 kings?",
 "options": [
 "752/22100",
