@@ -1,0 +1,607 @@
+[
+{
+"id": 1,
+"question": "If 10% of (P + Q) = 50% of (P - Q), then find P : Q.",
+"options": ["5:3","5:2","3:7","3:2","3:5"],
+"correct": "3:2",
+"topic": "Percentage"
+},
+{
+"id": 2,
+"question": "If 10% of (A + B) = 20% of (A - B), then what percent of B is equal to A?",
+"options": ["250%","300%","320%","380%","200%"],
+"correct": "300%",
+"topic": "Percentage"
+},
+{
+"id": 3,
+"question": "20 minutes is what percentage of 1 hour?",
+"options": ["33.33%","16.66%","25%","20%","None of the above"],
+"correct": "33.33%",
+"topic": "Percentage"
+},
+{
+"id": 4,
+"question": "375 grams is what percentage of 1 kilogram?",
+"options": ["37.5%","50%","14.5%","35%","None of the above"],
+"correct": "37.5%",
+"topic": "Percentage"
+},
+{
+"id": 5,
+"question": "4 hours is what percent of a day?",
+"options": ["16.66%","33.33%","66.66%","55.55%","None of these"],
+"correct": "16.66%",
+"topic": "Percentage"
+},
+{
+"id": 6,
+"question": "73 days are what percent of 5 years?",
+"options": ["25%","4%","5%","3%","None of these"],
+"correct": "4%",
+"topic": "Percentage"
+},
+{
+"id": 7,
+"question": "If the number is increased by 40%, then we will get 420. Find the original number.",
+"options": ["290","300","280","200","None of the above"],
+"correct": "300",
+"topic": "Percentage"
+},
+{
+"id": 8,
+"question": "If the number is increased by 16.66%, then we will get 420. Find the original number.",
+"options": ["290","300","280","200","None of the above"],
+"correct": "None of the above",
+"topic": "Percentage"
+},
+{
+"id": 9,
+"question": "The number has increased by 130% of its original number. We will get 1150. Find the original number.",
+"options": ["847","800","500","812","None of the above"],
+"correct": "500",
+"topic": "Percentage"
+},
+{
+"id": 10,
+"question": "If a number is decreased by 8.33%, it becomes 1320. Find the original number.",
+"options": ["1400","1440","1500","1320","None of the above"],
+"correct": "1440",
+"topic": "Percentage"
+},
+{
+"id": 11,
+"question": "If value of A and B are 40 and 120 respectively, then A is what percent of B?",
+"options": ["30%","33.33%","35.00%","40%","None of the above"],
+"correct": "33.33%",
+"topic": "Percentage"
+},
+{
+"id": 12,
+"question": "If value of A and B are 40 and 120 respectively, then B is what percent of A?",
+"options": ["300%","200%","33.33%","25%","None of the above"],
+"correct": "300%",
+"topic": "Percentage"
+},
+{
+"id": 13,
+"question": "If value of A and B are 40 and 120 respectively, then A is how much percent more or less than B?",
+"options": ["33.33% less","66.66% more","66.66% less","33.33% more","None of the above"],
+"correct": "66.66% less",
+"topic": "Percentage"
+},
+{
+"id": 14,
+"question": "If value of A and B are 40 and 120 respectively, then B is how much percent more or less than A?",
+"options": ["200% more","300% more","200% less","300% less","None of the above"],
+"correct": "200% more",
+"topic": "Percentage"
+},
+{
+"id": 15,
+"question": "Two successive increments of 10% and 10% on an article are equivalent to ______?",
+"options": [
+"20%",
+"21%",
+"25%",
+"24%",
+"None of the above"
+],
+"correct": "21%",
+"topic": "Percentage"
+},
+{
+"id": 16,
+"question": "The price of a shirt is first increased by 20% and then decreased by 10%, then the net change in the price will be?",
+"options": [
+"8% decrease",
+"9% decrease",
+"10% increase",
+"7% increase",
+"None of these"
+],
+"correct": "None of these",
+"topic": "Percentage"
+},
+{
+"id": 17,
+"question": "A man's working hours per day were increased by 50% and his wages were increased by 10%. By how much percent his daily earnings were increased?",
+"options": [
+"70%",
+"68%",
+"66.66%",
+"65%",
+"None of these"
+],
+"correct": "65%",
+"topic": "Percentage"
+},
+{
+"id": 18,
+"question": "The price of an article is first increased by 15% and then decreased by 10%, find the current price of the article. If the price of the article was Rs. 1000.",
+"options": [
+"1035",
+"1000",
+"1500",
+"1150",
+"None of the above"
+],
+"correct": "1035",
+"topic": "Percentage"
+},
+{
+"id": 19,
+"question": "The price of the article is first increased by 25% and then decreased by x%. If the net percentage change is 12.5%, then find the value of x?",
+"options": [
+"10%",
+"15%",
+"25%",
+"12%",
+"None of the above"
+],
+"correct": "10%",
+"topic": "Percentage"
+},
+{
+"id": 20,
+"question": "Two successive increment each of 20% is what percent more or less than the two successive decrement each of 20%?",
+"options": [
+"11.11% more",
+"11.11% less",
+"22.22% more",
+"12.5% less",
+"0%"
+],
+"correct": "11.11% more",
+"topic": "Percentage"
+},
+{
+"id": 21,
+"question": "The price of an article is first increased by 10% then decreased by 10% and again increased by a%. Then, the net percentage change in price of the article is 8.9%. Find the value of a?",
+"options": [
+"15%",
+"10%",
+"12%",
+"20%",
+"None of the above"
+],
+"correct": "10%",
+"topic": "Percentage"
+},
+{
+"id": 22,
+"question": "The price of sugar is decreased by 6.25%. Then, by how much percent should he change in his consumption so that expenditure remains unchanged?",
+"options": [
+"6.25%",
+"6.66%",
+"12.50%",
+"8.33%",
+"None of the above"
+],
+"correct": "6.66%",
+"topic": "Percentage"
+},
+{
+"id": 23,
+"question": "The price of an article is increased by 20% and the man wants to keep his expenditure constant. By how much percent should he change in his consumption?",
+"options": [
+"16.66%",
+"15%",
+"12.5%",
+"20%",
+"None of the above"
+],
+"correct": "16.66%",
+"topic": "Percentage"
+},
+{
+"id": 24,
+"question": "If the price of rice is decreased by 16.66% and the man wants to keep his expenditure constant. By how much percent should he change in his consumption?",
+"options": [
+"16.66%",
+"20%",
+"25%",
+"12.5%",
+"None of the above"
+],
+"correct": "20%",
+"topic": "Percentage"
+},
+{
+"id": 25,
+"question": "If price of a watermelon increased by 25% and total expenditure reduced by 20%, find percentage change in consumption.",
+"options": [
+"36% decrease",
+"72% decrease",
+"48% decrease",
+"No change",
+"None of the above"
+],
+"correct": "36% decrease",
+"topic": "Percentage"
+},
+{
+"id": 26,
+"question": "The price of petrol is increased by 10% and the man wants to increase their expenditure only by 5%. Find the percentage change in his consumption?",
+"options": [
+"4.54% increase",
+"5.45% increase",
+"10% increase",
+"6.5% increase",
+"None of the above"
+],
+"correct": "4.54% increase",
+"topic": "Percentage"
+},
+{
+"id": 27,
+"question": "What would happen to the amount spent on the commodity if its price drops by 20% and its consumption rises by 20%?",
+"options": [
+"4% decrease",
+"4% increase",
+"No change",
+"20% increase",
+"None of the above"
+],
+"correct": "4% decrease",
+"topic": "Percentage"
+},
+{
+"id": 28,
+"question": "The length of the rectangle is decreased by 10% and the breadth is increased by 25%. Then, by what percentage change in its area?",
+"options": [
+"25% increase",
+"12.5% increase",
+"12.5% decrease",
+"20% increase",
+"None of the above"
+],
+"correct": "12.5% increase",
+"topic": "Percentage"
+},
+{
+"id": 29,
+"question": "The length of the rectangle is decreased by 20% and the breadth is increased by 25%. Then, by what percentage change in its area?",
+"options": [
+"25% increase",
+"12.5% increase",
+"12.5% decrease",
+"20% increase",
+"None of the above"
+],
+"correct": "None of the above",
+"topic": "Percentage"
+},
+{
+"id": 30,
+"question": "If the side of a square is increased by 20%, find the percentage change in its area.",
+"options": [
+"40% increase",
+"44% increase",
+"20% increase",
+"36% increase",
+"None of the above"
+],
+"correct": "44% increase",
+"topic": "Percentage"
+},
+{
+"id": 31,
+"question": "By what percent the side of square must be increased, to increase its area by 189%?",
+"options": [
+"50%",
+"75%",
+"70%",
+"100%",
+"None of these"
+],
+"correct": "70%",
+"topic": "Percentage"
+},
+{
+"id": 32,
+"question": "Amit spends 75% of their earnings. His income rises by 20% and his expenses also rise by 20%. By what percentage have his savings increased?",
+"options": [
+"40%",
+"50%",
+"75%",
+"20%",
+"None of the above"
+],
+"correct": "20%",
+"topic": "Percentage"
+},
+{
+"id": 33,
+"question": "The income of Ishaan is Rs. 60000 and his expenditure is 32000. If his income increases by 33.33% and expenditure increases by 15%, then what will be the percentage increase in savings?",
+"options": [
+"56.28%",
+"54.28%",
+"27.28%",
+"24.26%",
+"None of these"
+],
+"correct": "54.28%",
+"topic": "Percentage"
+},
+{
+"id": 34,
+"question": "The monthly income of a person was Rs. 10000 and his monthly expenditure was Rs. 4000. Next year his income increased by 20% and his expenditure increased by 25%. The percentage increase in his savings was?",
+"options": [
+"16.67%",
+"15%",
+"14.28%",
+"20%",
+"None of the above"
+],
+"correct": "16.67%",
+"topic": "Percentage"
+},
+{
+"id": 35,
+"question": "Sohan invests 23% of his income in an insurance plan, 33% goes to food, 19% to kids' education and 16% to leisure. He places the remaining Rs. 504 in the bank. How much does he spend overall on food and insurance coverage?",
+"options": [
+"3136",
+"3052",
+"3008",
+"4358",
+"None of the above"
+],
+"correct": "3136",
+"topic": "Percentage"
+},
+{
+"id": 36,
+"question": "Manisha travels for 17% of her monthly income. She spends 36% on household expenses and 25% on medical costs. She has the remaining Rs. 20064 in cash. What is Manisha's yearly income?",
+"options": [
+"1094400",
+"1296400",
+"91200",
+"118600",
+"None of the above"
+],
+"correct": "1094400",
+"topic": "Percentage"
+},
+{
+"id": 37,
+"question": "Prakash spends 40% of his monthly money on food, and then 50% of the remaining amount on clothing and transportation. After all expenses, he saves one-third of the remaining sum. If he saves Rs. 19200 annually, what is his monthly income?",
+"options": [
+"15000",
+"16000",
+"18000",
+"22000",
+"None of the above"
+],
+"correct": "16000",
+"topic": "Percentage"
+},
+{
+"id": 38,
+"question": "Aman spends 11.11% of his income on food and lodging, 12.5% of the remaining on medicine, and 12.5% of the remaining on education. If he saves Rs. 49000, what is his total income?",
+"options": [
+"90000",
+"95000",
+"85400",
+"67800",
+"None of the above"
+],
+"correct": "None of the above",
+"topic": "Percentage"
+},
+{
+"id": 39,
+"question": "Ravi spends 14.28% of his income on house rent, 16.66% of the remaining on food, and 12.5% of the remaining on travelling. If he finally saves Rs. 5000, what is his total income?",
+"options": [
+"8000",
+"10000",
+"12000",
+"15000",
+"None of the above"
+],
+"correct": "8000",
+"topic": "Percentage"
+},
+{
+"id": 40,
+"question": "A man deposits 20% of his salary in PF. He saves 15% of the remaining. The ratio of his expense on medicine and groceries is 5:12 of the remaining salary after saving. If his expense on medicine was Rs. 2400, find the monthly salary.",
+"options": [
+"5000",
+"8000",
+"10000",
+"12000",
+"None of these"
+],
+"correct": "12000",
+"topic": "Percentage"
+},
+{
+"id": 41,
+"question": "Abhishek spends 30% of his monthly income on food and 20% on education for his children. Of the remaining salary, he spends 15% on entertainment and 10% on purchasing dresses. The remaining salary left with him is Rs. 75000. What is the monthly salary of Abhishek?",
+"options": [
+"144000",
+"240000",
+"200000",
+"185000",
+"None of these"
+],
+"correct": "200000",
+"topic": "Percentage"
+},
+{
+"id": 42,
+"question": "In an election, there are two candidates. 10% of the voters did not vote and 10% of the remaining votes were declared invalid. The winner gets 75% of the valid votes and wins by 4050 votes. What is the total number of voters on the voting list?",
+"options": [
+"8000",
+"10000",
+"12000",
+"13000",
+"None of the above"
+],
+"correct": "10000",
+"topic": "Percentage"
+},
+{
+"id": 43,
+"question": "10% of the voters did not cast their vote in an election between two candidates. 10% of the votes polled were found invalid. The successful candidate got 54% of the valid votes and won by a majority of 4860 votes. The number of voters in the voters list was?",
+"options": [
+"75000",
+"63000",
+"50000",
+"80000",
+"60000"
+],
+"correct": "50000",
+"topic": "Percentage"
+},
+{
+"id": 44,
+"question": "In an election two candidates participated, 10% of voters did not cast their votes, out of which 80 votes were declared invalid and the winner got 60% of the total valid votes and won by 2000 votes. Find the total number of voters.",
+"options": [
+"10200",
+"13200",
+"12200",
+"11200",
+"None of these"
+],
+"correct": "11200",
+"topic": "Percentage"
+},
+{
+"id": 45,
+"question": "In an election between two candidates, 30% of the voters did not cast their vote, 500 votes were declared invalid, the winner got 60% of the valid votes and won by a margin of 2000 votes. Find the total number of voters in the voting list.",
+"options": [
+"10000",
+"13000",
+"15000",
+"11000",
+"None of these"
+],
+"correct": "10000",
+"topic": "Percentage"
+},
+{
+"id": 46,
+"question": "In an examination, 75% of the candidates passed in English and 68% in Mathematics. If 60% of the candidates passed in both these subjects, then what percentage of candidates failed in both the subjects?",
+"options": [
+"15%",
+"16%",
+"17%",
+"18%",
+"None of these"
+],
+"correct": "17%",
+"topic": "Percentage"
+},
+{
+"id": 47,
+"question": "In an examination, 38% of students failed in paper I and 45% of students failed in paper II. If 15% of students failed in both these subjects, then what percentage of candidates passed in both the subjects?",
+"options": [
+"30%",
+"32%",
+"35%",
+"38%",
+"None of these"
+],
+"correct": "32%",
+"topic": "Percentage"
+},
+{
+"id": 48,
+"question": "In an examination, 60% of students passed in English and 70% of students passed in Maths. 20% of students failed in both these subjects. 2500 students passed in both the subjects. Find out the total number of students.",
+"options": [
+"5000",
+"6000",
+"10000",
+"2500",
+"None of these"
+],
+"correct": "5000",
+"topic": "Percentage"
+},
+{
+"id": 49,
+"question": "In an examination, 60% of the candidates passed in Hindi and 70% of students passed in Maths and 40% of candidates passed in both the subjects. If 450 candidates failed in both the subjects, find out the total number of candidates appearing for the exam.",
+"options": [
+"3500",
+"4500",
+"2500",
+"4000",
+"None of these"
+],
+"correct": "4500",
+"topic": "Percentage"
+},
+{
+"id": 50,
+"question": "In a bank exam, 55% of the students passed in Reasoning and 42% of the students passed in English. If 35% of the students passed in both subjects, then find the percentage of students who failed in both subjects.",
+"options": [
+"48%",
+"38%",
+"62%",
+"20%",
+"None of these"
+],
+"correct": "38%",
+"topic": "Percentage"
+},
+{
+"id": 51,
+"question": "In an exam, 41% students passed in Hindi and 68% passed in English while 15% passed in both. Find how percent students failed in both.",
+"options": [
+"17%",
+"20%",
+"18%",
+"34%",
+"None of these"
+],
+"correct": "None of these",
+"topic": "Percentage"
+},
+{
+"id": 52,
+"question": "In a survey, it was found that out of all persons 38% are vegetarian, 65% are non-vegetarian while 20% eat both. Find how many percent persons eat none.",
+"options": [
+"17%",
+"20%",
+"18%",
+"34%",
+"None of these"
+],
+"correct": "17%",
+"topic": "Percentage"
+},
+{
+"id": 53,
+"question": "In an IBPS PO banking exam, 42.84% of students passed in English and 37.5% in Reasoning. If 12.5% passed in both the subjects, what percentage of students failed in both subjects?",
+"options": [
+"12.5%",
+"50%",
+"32.16%",
+"67.84%",
+"None of these"
+],
+"correct": "32.16%",
+"topic": "Percentage"
+}
+]
